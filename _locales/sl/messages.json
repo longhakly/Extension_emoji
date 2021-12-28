@@ -1,0 +1,209 @@
+{
+   "AppDesc": {
+      "message": "V okno za klepet doda hitre bližnjice do emojijev"
+   },
+   "AppName": {
+      "message": "Emodžiji za Google Meet ™"
+   },
+   "Drive": {
+      "message": "Funkcija pogona"
+   },
+   "Homepage": {
+      "message": "Domača stran"
+   },
+   "InMeetingPlugin": {
+      "message": "V vtičniku za sestanke je omogočen"
+   },
+   "InMeetingPluginDisabled": {
+      "message": "V vtičniku za sestanke je onemogočen"
+   },
+   "RateUs": {
+      "message": "Prosimo ocenite nas!"
+   },
+   "StartMeet": {
+      "message": "Začnite srečanje"
+   },
+   "ftr_1": {
+      "message": "Pritisni za govor"
+   },
+   "ftr_10": {
+      "message": "Nastavite barvo ozadja"
+   },
+   "ftr_10_1": {
+      "message": "Nastavite barvo ozadja po meri v programu Meet"
+   },
+   "ftr_11": {
+      "message": "Samodejno vklopi zvok"
+   },
+   "ftr_11_1": {
+      "message": "Preprečite drugim, da bi utišali mikrofon"
+   },
+   "ftr_12": {
+      "message": "Oznaka zvočnika"
+   },
+   "ftr_12_1": {
+      "message": "Doda mejo okoli govornih udeležencev"
+   },
+   "ftr_13": {
+      "message": "Slika v sliki"
+   },
+   "ftr_13_1": {
+      "message": "Oglejte si videoposnetek udeležencev v sliki v sliki"
+   },
+   "ftr_14": {
+      "message": "Prozorna vrstica"
+   },
+   "ftr_14_1": {
+      "message": "Spodnja vrstica naj bo prozorna"
+   },
+   "ftr_15": {
+      "message": "Dark Mode"
+   },
+   "ftr_15_1": {
+      "message": "Naredi Google Meet temen način"
+   },
+   "ftr_16": {
+      "message": "Samodejni celozaslonski način"
+   },
+   "ftr_16_1": {
+      "message": "Samodejni celozaslonski prikaz, ko nekdo predstavlja"
+   },
+   "ftr_17": {
+      "message": "Preklopi spodnjo vrstico"
+   },
+   "ftr_17_1": {
+      "message": "Preklopite spodnjo nadzorno vrstico, da se prikaže"
+   },
+   "ftr_18": {
+      "message": "Časovnik srečanja"
+   },
+   "ftr_18_1": {
+      "message": "Prikaže časovnik sestanka v zgornji menijski vrstici"
+   },
+   "ftr_19": {
+      "message": "Skrij pojavno okno brez zvoka"
+   },
+   "ftr_19_1": {
+      "message": "Skriva &quot;Ali govoriš?&quot; pojavno okno ob utišanju"
+   },
+   "ftr_1_2": {
+      "message": "Pridržite bližnjično tipko za vklop"
+   },
+   "ftr_1_3": {
+      "message": "Kliknite, da začnete poslušati, znova kliknite, da shranite."
+   },
+   "ftr_2": {
+      "message": "Samodejno pridruži"
+   },
+   "ftr_20": {
+      "message": "Samodejno pripni klepet"
+   },
+   "ftr_20_1": {
+      "message": "Ko se pridružite Meetu, samodejno pripne pogled klepeta"
+   },
+   "ftr_21": {
+      "message": "Samodejni sprejem novih udeležencev"
+   },
+   "ftr_21_1": {
+      "message": "Samodejno sprejme nove udeležence na Meet"
+   },
+   "ftr_22": {
+      "message": "Samodejno zavrni nove udeležence"
+   },
+   "ftr_22_1": {
+      "message": "Samodejno zavrne nove udeležence srečanja"
+   },
+   "ftr_23": {
+      "message": "Mirror Videos"
+   },
+   "ftr_23_1": {
+      "message": "Zrcali vse videoposnetke v programu Meet"
+   },
+   "ftr_24": {
+      "message": "Prikaz ure"
+   },
+   "ftr_24_1": {
+      "message": "Prikažite uro, tudi če ni v celozaslonskem načinu"
+   },
+   "ftr_25": {
+      "message": "Skrij pojavno okno »Dodaj druge«"
+   },
+   "ftr_25_1": {
+      "message": "Ko se pridružite sestanku, skrije pojavno okno »Dodaj druge«"
+   },
+   "ftr_26": {
+      "message": "Ne moti"
+   },
+   "ftr_26_1": {
+      "message": "Skrij komentarje in uporabniška pojavna okna"
+   },
+   "ftr_26_2": {
+      "message": "Skrij oblaček z obvestili o komentarjih"
+   },
+   "ftr_27": {
+      "message": "Poiščite zavihek Active Meet"
+   },
+   "ftr_27_1": {
+      "message": "Kliknite ikono razširitve, da poiščete aktivni zavihek Meet"
+   },
+   "ftr_28": {
+      "message": "Izključi vse"
+   },
+   "ftr_28_1": {
+      "message": "Izključi vse udeležence prek menija za udeležence"
+   },
+   "ftr_29": {
+      "message": "Odstrani vse"
+   },
+   "ftr_29_1": {
+      "message": "Odstranite vse udeležence prek menija za udeležence"
+   },
+   "ftr_2_1": {
+      "message": "Preskočite zaslon za pridružitev"
+   },
+   "ftr_3": {
+      "message": "Hitri odhod"
+   },
+   "ftr_30": {
+      "message": "Hitre reakcije emodžijev"
+   },
+   "ftr_3_1": {
+      "message": "Uporabite bližnjično tipko, da zapustite klic"
+   },
+   "ftr_4": {
+      "message": "Pustite potrditev"
+   },
+   "ftr_4_1": {
+      "message": "Prosite za potrditev, ko zapustite sestanek"
+   },
+   "ftr_5": {
+      "message": "Samodejni napisi"
+   },
+   "ftr_5_1": {
+      "message": "Samodejno vklopi napise"
+   },
+   "ftr_6": {
+      "message": "Samodejni izklop"
+   },
+   "ftr_6_1": {
+      "message": "Samodejno utišaj mikrofon ob pridružitvi"
+   },
+   "ftr_7": {
+      "message": "Samodejni izklop videa"
+   },
+   "ftr_7_1": {
+      "message": "Ob pridružitvi nastavite izklop videa"
+   },
+   "ftr_8": {
+      "message": "Dno spodnje vrstice"
+   },
+   "ftr_8_1": {
+      "message": "Pripnite nadzorno vrstico na dno zaslona"
+   },
+   "ftr_9": {
+      "message": "Skrij imena"
+   },
+   "ftr_9_1": {
+      "message": "Na svojih videoposnetkih skrije imena udeležencev"
+   }
+}

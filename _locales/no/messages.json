@@ -1,0 +1,209 @@
+{
+   "AppDesc": {
+      "message": "Legger til hurtige emoji-snarveier i chat-vinduet"
+   },
+   "AppName": {
+      "message": "Emojis for Google Meet ™"
+   },
+   "Drive": {
+      "message": "Drive-funksjon"
+   },
+   "Homepage": {
+      "message": "hjemmeside"
+   },
+   "InMeetingPlugin": {
+      "message": "I møteplugin aktivert"
+   },
+   "InMeetingPluginDisabled": {
+      "message": "Plugin for møte deaktivert"
+   },
+   "RateUs": {
+      "message": "Vennligst ranger oss!"
+   },
+   "StartMeet": {
+      "message": "Start et møte"
+   },
+   "ftr_1": {
+      "message": "Trykk for å snakke"
+   },
+   "ftr_10": {
+      "message": "Sett bakgrunnsfarge"
+   },
+   "ftr_10_1": {
+      "message": "Angi tilpasset bakgrunnsfarge i Meet"
+   },
+   "ftr_11": {
+      "message": "Demp automatisk"
+   },
+   "ftr_11_1": {
+      "message": "Stopp andre fra å dempe mikrofonen din"
+   },
+   "ftr_12": {
+      "message": "Høyttalerhøydepunkt"
+   },
+   "ftr_12_1": {
+      "message": "Legger til en grense rundt talende deltakere"
+   },
+   "ftr_13": {
+      "message": "Bilde-i-bilde"
+   },
+   "ftr_13_1": {
+      "message": "Se en deltakers video i bilde-i-bilde"
+   },
+   "ftr_14": {
+      "message": "Gjennomsiktig bar"
+   },
+   "ftr_14_1": {
+      "message": "Gjør bunnstangen gjennomsiktig"
+   },
+   "ftr_15": {
+      "message": "Mørk modus"
+   },
+   "ftr_15_1": {
+      "message": "Gjør Google Meet mørk modus"
+   },
+   "ftr_16": {
+      "message": "Automatisk fullskjerm"
+   },
+   "ftr_16_1": {
+      "message": "Automatisk fullskjerm når noen presenterer"
+   },
+   "ftr_17": {
+      "message": "Bytt bunnlinje"
+   },
+   "ftr_17_1": {
+      "message": "Bytt nederste kontrollpanel for å vises"
+   },
+   "ftr_18": {
+      "message": "Møtetidsur"
+   },
+   "ftr_18_1": {
+      "message": "Viser en møtetimer i toppmenylinjen"
+   },
+   "ftr_19": {
+      "message": "Skjul Mute Pop-up"
+   },
+   "ftr_19_1": {
+      "message": "Skjuler &quot;Snakker du?&quot; popup når dempet"
+   },
+   "ftr_1_2": {
+      "message": "Hold hurtigtasten nede for å slå på lyden"
+   },
+   "ftr_1_3": {
+      "message": "Klikk for å begynne å lytte, klikk igjen for å lagre."
+   },
+   "ftr_2": {
+      "message": "Auto Join"
+   },
+   "ftr_20": {
+      "message": "Auto-pin Chat"
+   },
+   "ftr_20_1": {
+      "message": "Fest automatisk chatvisning når du blir med i Meet"
+   },
+   "ftr_21": {
+      "message": "Autoriser nye deltakere"
+   },
+   "ftr_21_1": {
+      "message": "Innrømmer automatisk nye deltagere til Meet"
+   },
+   "ftr_22": {
+      "message": "Auto Deny nye deltagere"
+   },
+   "ftr_22_1": {
+      "message": "Nekter automatisk nye deltagere til Meet"
+   },
+   "ftr_23": {
+      "message": "Speilvideoer"
+   },
+   "ftr_23_1": {
+      "message": "Speiler alle videoene i Meet"
+   },
+   "ftr_24": {
+      "message": "Vis klokke"
+   },
+   "ftr_24_1": {
+      "message": "Vis klokken selv når den ikke er i fullskjerm"
+   },
+   "ftr_25": {
+      "message": "Skjul popup-vinduet &quot;Legg til andre&quot;"
+   },
+   "ftr_25_1": {
+      "message": "Skjuler popup-vinduet &quot;Legg til andre&quot; når du blir med på et Meet"
+   },
+   "ftr_26": {
+      "message": "Ikke forstyrr"
+   },
+   "ftr_26_1": {
+      "message": "Skjul kommentarer og brukere blir med i forgrunnsvinduer"
+   },
+   "ftr_26_2": {
+      "message": "Skjul varselboble for kommentarer"
+   },
+   "ftr_27": {
+      "message": "Finn Active Meet-fanen"
+   },
+   "ftr_27_1": {
+      "message": "Klikk på utvidelsesikonet for å finne den aktive Meet-fanen"
+   },
+   "ftr_28": {
+      "message": "Demp alle"
+   },
+   "ftr_28_1": {
+      "message": "Demp alle deltakerne via deltakermenyen"
+   },
+   "ftr_29": {
+      "message": "Fjern alle"
+   },
+   "ftr_29_1": {
+      "message": "Fjern alle deltakerne via deltakermenyen"
+   },
+   "ftr_2_1": {
+      "message": "Hopp over delta-skjermen"
+   },
+   "ftr_3": {
+      "message": "Rask permisjon"
+   },
+   "ftr_30": {
+      "message": "Raske Emoji-reaksjoner"
+   },
+   "ftr_3_1": {
+      "message": "Bruk hurtigtast for å ringe"
+   },
+   "ftr_4": {
+      "message": "La bekreftelse"
+   },
+   "ftr_4_1": {
+      "message": "Be om å bekrefte når du forlater et møte"
+   },
+   "ftr_5": {
+      "message": "Auto Captions"
+   },
+   "ftr_5_1": {
+      "message": "Slå på billedtekst automatisk"
+   },
+   "ftr_6": {
+      "message": "Demp automatisk"
+   },
+   "ftr_6_1": {
+      "message": "Demp mikrofonen automatisk ved sammenkobling"
+   },
+   "ftr_7": {
+      "message": "Automatisk video av"
+   },
+   "ftr_7_1": {
+      "message": "Sett videoen av når du blir med"
+   },
+   "ftr_8": {
+      "message": "Pinnebunnstang"
+   },
+   "ftr_8_1": {
+      "message": "Fest kontrollpanelet til bunnen av skjermen"
+   },
+   "ftr_9": {
+      "message": "Skjul navn"
+   },
+   "ftr_9_1": {
+      "message": "Skjuler deltakernes navn på videoene sine"
+   }
+}

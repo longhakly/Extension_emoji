@@ -1,0 +1,209 @@
+{
+   "AppDesc": {
+      "message": "Voegt snelle emoji-snelkoppelingen toe aan het chatvenster"
+   },
+   "AppName": {
+      "message": "Emoji&#39;s voor Google Meet ™"
+   },
+   "Drive": {
+      "message": "Drive-functie"
+   },
+   "Homepage": {
+      "message": "Startpagina"
+   },
+   "InMeetingPlugin": {
+      "message": "In vergaderingsplug-in ingeschakeld"
+   },
+   "InMeetingPluginDisabled": {
+      "message": "Plug-in voor vergadering uitgeschakeld"
+   },
+   "RateUs": {
+      "message": "Beoordeel ons alstublieft!"
+   },
+   "StartMeet": {
+      "message": "Start een bijeenkomst"
+   },
+   "ftr_1": {
+      "message": "Push To Talk"
+   },
+   "ftr_10": {
+      "message": "Achtergrondkleur instellen"
+   },
+   "ftr_10_1": {
+      "message": "Stel een aangepaste achtergrondkleur in de Meet"
+   },
+   "ftr_11": {
+      "message": "Automatisch opheffen"
+   },
+   "ftr_11_1": {
+      "message": "Voorkom dat anderen je microfoon dempen"
+   },
+   "ftr_12": {
+      "message": "Luidspreker markeren"
+   },
+   "ftr_12_1": {
+      "message": "Voegt een rand toe rond sprekende deelnemers"
+   },
+   "ftr_13": {
+      "message": "Foto in foto"
+   },
+   "ftr_13_1": {
+      "message": "Bekijk de video van een deelnemer in beeld-in-beeld"
+   },
+   "ftr_14": {
+      "message": "Transparante balk"
+   },
+   "ftr_14_1": {
+      "message": "Maak de onderste balk transparant"
+   },
+   "ftr_15": {
+      "message": "Donkere modus"
+   },
+   "ftr_15_1": {
+      "message": "Maakt Google Meet donkere modus"
+   },
+   "ftr_16": {
+      "message": "Automatisch volledig scherm"
+   },
+   "ftr_16_1": {
+      "message": "Automatisch volledig scherm wanneer iemand presenteert"
+   },
+   "ftr_17": {
+      "message": "Schakel de onderste balk in"
+   },
+   "ftr_17_1": {
+      "message": "Schakel de onderste bedieningsbalk om te verschijnen"
+   },
+   "ftr_18": {
+      "message": "Meeting Timer"
+   },
+   "ftr_18_1": {
+      "message": "Geeft een vergadertimer weer in de bovenste menubalk"
+   },
+   "ftr_19": {
+      "message": "Verberg pop-up voor dempen"
+   },
+   "ftr_19_1": {
+      "message": "Verbergt &quot;Spreek je?&quot; popup wanneer gedempt"
+   },
+   "ftr_1_2": {
+      "message": "Houd de sneltoets ingedrukt om het dempen op te heffen"
+   },
+   "ftr_1_3": {
+      "message": "Klik om te beginnen met luisteren, klik nogmaals om op te slaan."
+   },
+   "ftr_2": {
+      "message": "Automatisch deelnemen"
+   },
+   "ftr_20": {
+      "message": "Chat automatisch vastzetten"
+   },
+   "ftr_20_1": {
+      "message": "Zet automatisch de chatweergave vast bij deelname aan Meet"
+   },
+   "ftr_21": {
+      "message": "Nieuwe deelnemers automatisch toelaten"
+   },
+   "ftr_21_1": {
+      "message": "Laat automatisch nieuwe deelnemers toe aan de Meet"
+   },
+   "ftr_22": {
+      "message": "Nieuwe deelnemers automatisch weigeren"
+   },
+   "ftr_22_1": {
+      "message": "Weigert automatisch nieuwe deelnemers aan de Meet"
+   },
+   "ftr_23": {
+      "message": "Spiegel video&#39;s"
+   },
+   "ftr_23_1": {
+      "message": "Spiegelt alle video&#39;s in de Meet"
+   },
+   "ftr_24": {
+      "message": "Klok weergeven"
+   },
+   "ftr_24_1": {
+      "message": "Geef de klok weer, zelfs als deze niet op volledig scherm is"
+   },
+   "ftr_25": {
+      "message": "Verberg het pop-upvenster &quot;Andere toevoegen&quot;"
+   },
+   "ftr_25_1": {
+      "message": "Verbergt de pop-up &quot;Andere toevoegen&quot; wanneer u deelneemt aan een Meet"
+   },
+   "ftr_26": {
+      "message": "Niet storen"
+   },
+   "ftr_26_1": {
+      "message": "Verberg opmerkingen en pop-ups voor gebruikersdeelname"
+   },
+   "ftr_26_2": {
+      "message": "Berichtballon verbergen"
+   },
+   "ftr_27": {
+      "message": "Vind Active Meet Tab"
+   },
+   "ftr_27_1": {
+      "message": "Klik op het extensiepictogram om het actieve Meet-tabblad te vinden"
+   },
+   "ftr_28": {
+      "message": "Alles dempen"
+   },
+   "ftr_28_1": {
+      "message": "Demp alle deelnemers via het deelnemersmenu"
+   },
+   "ftr_29": {
+      "message": "Verwijder alles"
+   },
+   "ftr_29_1": {
+      "message": "Verwijder alle deelnemers via het deelnemersmenu"
+   },
+   "ftr_2_1": {
+      "message": "Sla het samenvoegscherm over"
+   },
+   "ftr_3": {
+      "message": "Snel vertrekken"
+   },
+   "ftr_30": {
+      "message": "Snelle Emoji-reacties"
+   },
+   "ftr_3_1": {
+      "message": "Gebruik de sneltoets om een gesprek te verlaten"
+   },
+   "ftr_4": {
+      "message": "Laat de bevestiging achter"
+   },
+   "ftr_4_1": {
+      "message": "Vraag om bevestiging wanneer u een vergadering verlaat"
+   },
+   "ftr_5": {
+      "message": "Automatische ondertiteling"
+   },
+   "ftr_5_1": {
+      "message": "Bijschriften automatisch inschakelen"
+   },
+   "ftr_6": {
+      "message": "Automatisch dempen"
+   },
+   "ftr_6_1": {
+      "message": "Microfoon automatisch dempen bij deelname"
+   },
+   "ftr_7": {
+      "message": "Automatische video uit"
+   },
+   "ftr_7_1": {
+      "message": "Zet video uit bij deelname"
+   },
+   "ftr_8": {
+      "message": "Pin onderste balk"
+   },
+   "ftr_8_1": {
+      "message": "Zet de bedieningsbalk vast aan de onderkant van het scherm"
+   },
+   "ftr_9": {
+      "message": "Verberg namen"
+   },
+   "ftr_9_1": {
+      "message": "Verbergt namen van deelnemers op hun video&#39;s"
+   }
+}

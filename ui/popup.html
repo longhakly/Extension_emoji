@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title data-i18n="AppName"></title>
+    <link rel="stylesheet" type="text/css" href="/styles/webfonts.css"/>
+    <link rel="stylesheet" type="text/css" href="/styles/fontawessome.css"/>
+    <link rel="stylesheet" type="text/css" href="/styles/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/styles/body.css" />
+    <link rel="stylesheet" type="text/css" href="/styles/popup.css" />
+  </head>
+
+  <body>
+  
+    <header class="header">
+      <div class="headerLogo">
+        <a target="_blank" id="home-page" href="#">
+          <img src="/images/icon48.png" />
+          <span data-i18n="AppName"></span>
+        </a>
+      </div>
+      <div class="headerRight">
+        <a id="new-meet" target="_blank" class="header-button" href="https://meet.new">
+          <i class="far fa-comments fa-w-18 fa-lg"></i>
+        </a>
+        <a id="reactions-settings" target="_blank" class="header-button" href="#">
+          <i class="fas fa-cogs fa-w-18 fa-lg"></i>
+        </a>
+        <a id="reactions-settings-back" class="header-button d-none" href="#" title="Settings">
+          <i class="fas fa-arrow-left"></i>
+        </a>
+      </div>
+    </header>
+    <div class="spacer74"></div>
+    <div class="card-deck">
+      <div id="main-card" class="card">
+        <div class="card-body">
+          <div id="featureList">
+            <div id="basicFeatures">
+                
+              <!-- Quick Emojis -->
+              
+              <div class="container">
+                <div class="item">
+                  <img src="/images/quickEmojiIcon.svg" />
+                </div>
+                <div class="item">
+                  <label data-i18n="ftr_30">Quick Emoji Reactions</label>
+                  <small data-i18n="ftr_30_1">Adds quick emoji shortcuts to the chat window</small>
+                </div>
+                <div class="item">
+                  <input type="checkbox" id="quickEmoji" />
+                </div>
+              </div>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="settings-card" class="card d-none" >
+        <div class="card-body">
+            <label class="form-switch" 
+              style="display: flex; align-items: center; justify-content: center; margin-top: 0;">
+                <input type="checkbox" id="plugin-enabled" checked>    
+                <i></i>
+                <h3 data-i18n="InMeetingPlugin">
+                    
+                </h3>
+            </label>        
+        </div>
+      </div>
+
+    </div>
+    <div class="spacer64"></div>
+    <footer class="footer">
+      <div class="card-footer text-center">
+        <a class="btn-sm btn3d btn-primary mt-3" id="drive" href="#" target="_blank" data-i18n="Drive"> Drive feature</a>
+        <a class="btn-sm btn3d btn-primary mt-3" id="rate" href="#" target="_blank" data-i18n="RateUs"> Rate us</a>
+        <a class="btn-sm btn3d btn-primary mt-3" id="home" href="#" target="_blank" data-i18n="Homepage"> Homepage</a><br>
+        <small data-i18n="AppDesc"></small>
+      </div>
+    </footer>
+
+    <script src="/scripts/config.js"></script>
+    <script src="/scripts/hotKey.js"></script>
+    <script src="/scripts/common.js"></script>
+    <script src="/scripts/popup.js"></script>
+    <script src="/scripts/Localization.js"></script>
+  </body>
+</html>

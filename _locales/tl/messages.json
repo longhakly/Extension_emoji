@@ -1,0 +1,209 @@
+{
+  "AppDesc": {
+    "message": "Nagdaragdag ng mabilis na mga shortcut sa emoji sa window ng pag-chat"
+  },
+  "Homepage": {
+    "message": "Homepage"
+  },
+  "RateUs": {
+    "message": "Paki-rate sa Amin!"
+  },
+  "Drive": {
+    "message": "Tampok ng Pagmamaneho"
+  },
+  "InMeetingPlugin": {
+    "message": "Pinapagana ang pagpupulong sa plugin"
+  },
+  "InMeetingPluginDisabled": {
+    "message": "Sa pulong plugin hindi pinagana"
+  },
+  "StartMeet": {
+    "message": "Magsimula sa isang Kilalanin"
+  },
+  "ftr_1": {
+    "message": "Push To Talk"
+  },
+  "ftr_1_2": {
+    "message": "Pindutin nang matagal ang hotkey upang i-unmute"
+  },
+  "ftr_1_3": {
+    "message": "Mag-click upang simulang makinig, mag-click muli upang makatipid."
+  },
+  "ftr_2": {
+    "message": "Auto Sumali"
+  },
+  "ftr_2_1": {
+    "message": "Laktawan ang sumali sa screen"
+  },
+  "ftr_3": {
+    "message": "Mabilis na Pag-iwan"
+  },
+  "ftr_3_1": {
+    "message": "Gumamit ng hotkey upang mag-iwan ng tawag"
+  },
+  "ftr_4": {
+    "message": "Iwanan ang Pagkumpirma"
+  },
+  "ftr_4_1": {
+    "message": "Hilinging kumpirmahin kapag umalis ka sa isang pagpupulong"
+  },
+  "ftr_5": {
+    "message": "Mga Auto Caption"
+  },
+  "ftr_5_1": {
+    "message": "Awtomatikong i-on ang mga caption"
+  },
+  "ftr_6": {
+    "message": "Awtomatikong i-mute"
+  },
+  "ftr_6_1": {
+    "message": "Awtomatikong i-mute ang mikropono sa pagsali"
+  },
+  "ftr_7": {
+    "message": "Patay ang Auto Video"
+  },
+  "ftr_7_1": {
+    "message": "Itakda ang video na off sa pagsali"
+  },
+  "ftr_8": {
+    "message": "Pin Bottom Bar"
+  },
+  "ftr_8_1": {
+    "message": "Pin ang control bar sa ilalim ng screen"
+  },
+  "ftr_9": {
+    "message": "Itago ang Mga Pangalan"
+  },
+  "ftr_9_1": {
+    "message": "Itinatago ang mga pangalan ng mga kalahok sa kanilang mga video"
+  },
+  "ftr_10": {
+    "message": "Itakda ang Kulay sa Background"
+  },
+  "ftr_10_1": {
+    "message": "Itakda ang kulay ng pasadyang background sa Meet"
+  },
+  "ftr_11": {
+    "message": "Awtomatikong i-unmute"
+  },
+  "ftr_11_1": {
+    "message": "Itigil ang iba pa mula sa pag-mute ng iyong mic"
+  },
+  "ftr_12": {
+    "message": "Speaker Highlight"
+  },
+  "ftr_12_1": {
+    "message": "Nagdaragdag ng isang hangganan sa paligid ng mga kalahok sa pagsasalita"
+  },
+  "ftr_13": {
+    "message": "Larawan-sa-larawan"
+  },
+  "ftr_13_1": {
+    "message": "Tingnan ang isang kalahok na video sa larawan-sa-larawan"
+  },
+  "ftr_14": {
+    "message": "Transparent Bar"
+  },
+  "ftr_14_1": {
+    "message": "Gawing transparent ang ilalim na bar"
+  },
+  "ftr_15": {
+    "message": "Madilim Mode"
+  },
+  "ftr_15_1": {
+    "message": "Ginagawang dark mode ang Google Meet"
+  },
+  "ftr_16": {
+    "message": "Auto Buong Screen"
+  },
+  "ftr_16_1": {
+    "message": "Auto full screen kapag may nagtatanghal"
+  },
+  "ftr_17": {
+    "message": "I-toggle ang Bottom Bar"
+  },
+  "ftr_17_1": {
+    "message": "I-toggle ang control bar sa ibaba upang lumitaw"
+  },
+  "ftr_18": {
+    "message": "Tagatakda ng Timer"
+  },
+  "ftr_18_1": {
+    "message": "Nagpapakita ng isang timer ng pagpupulong sa tuktok na menu bar"
+  },
+  "ftr_19": {
+    "message": "Itago ang I-mute ang Popup"
+  },
+  "ftr_19_1": {
+    "message": "Itinago &quot;Nagsasalita ka ba?&quot; pop kapag naka-mute"
+  },
+  "ftr_20": {
+    "message": "I-auto-pin ang Chat"
+  },
+  "ftr_20_1": {
+    "message": "Awtomatikong pin ang view ng chat kapag sumali sa Meet"
+  },
+  "ftr_21": {
+    "message": "Auto Admit New Entrants"
+  },
+  "ftr_21_1": {
+    "message": "Awtomatikong tinatanggap ang mga bagong pumapasok sa Meet"
+  },
+  "ftr_22": {
+    "message": "Tanggihan ng Auto ang Mga Bagong Entrant"
+  },
+  "ftr_22_1": {
+    "message": "Awtomatikong tinanggihan ang mga bagong pumapasok sa Meet"
+  },
+  "ftr_23": {
+    "message": "Mga Video ng Salamin"
+  },
+  "ftr_23_1": {
+    "message": "Sinasalamin ang lahat ng mga video sa Meet"
+  },
+  "ftr_24": {
+    "message": "Ipakita ang Orasan"
+  },
+  "ftr_24_1": {
+    "message": "Ipakita ang orasan kahit na wala sa fullscreen"
+  },
+  "ftr_25": {
+    "message": "Itago ang pop-up na &quot;Magdagdag ng Iba pa&quot;"
+  },
+  "ftr_25_1": {
+    "message": "Itinago ang pop-up na &quot;Magdagdag ng Iba pa&quot; kapag sumali sa isang Meet"
+  },
+  "ftr_26": {
+    "message": "Huwag abalahin"
+  },
+  "ftr_26_1": {
+    "message": "Itago ang mga komento at sumali ang mga pop-up ng gumagamit"
+  },
+  "ftr_26_2": {
+    "message": "Itago ang bubble ng notification sa puna"
+  },
+  "ftr_27": {
+    "message": "Maghanap ng Tab na Aktibong Makipagkita"
+  },
+  "ftr_27_1": {
+    "message": "I-click ang icon ng extension upang makita ang aktibong tab na Meet"
+  },
+  "ftr_28": {
+    "message": "I-mute ang Lahat"
+  },
+  "ftr_28_1": {
+    "message": "I-mute ang lahat ng mga kalahok sa pamamagitan ng menu ng mga kasali"
+  },
+  "ftr_29": {
+    "message": "Alisin lahat"
+  },
+  "ftr_29_1": {
+    "message": "Alisin ang lahat ng mga kalahok sa pamamagitan ng menu ng mga kasali"
+  },
+  "ftr_30": {
+    "message": "Mabilis na Mga Reaksyon ng Emoji"
+  },
+  "AppName": {
+    "message": "Emojis para sa Google Meet ™"
+  }
+}

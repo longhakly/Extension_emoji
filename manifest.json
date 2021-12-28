@@ -1,0 +1,31 @@
+{
+   "author": "Free Simple Apps",
+   "background": {
+      "scripts": [ "scripts/config.js", "scripts/background.js", "scripts/welcome-goodbye.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/icon128.png",
+      "default_popup": "ui/popup.html"
+   },
+   "container": [ "GOOGLE_DRIVE" ],
+   "content_scripts": [ {
+      "js": [ "scripts/config.js", "scripts/hotKey.js", "scripts/extension.js", "scripts/common.js", "scripts/sidebar.js" ],
+      "matches": [ "*://meet.google.com/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_AppDesc__",
+   "homepage_url": "https://google-meet-emojis.dllplayer.com/",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlBFQG5UJ1s6zK5XSSkWa7kDd96UvDuC7oEwomCKxr4VddC6wb1//KOC8aCScwhkFpCP6oJDSh8VLcSexl84lTKU2uFd6TcAW7QZse65XLNOiDqb6ses216rR9BuQU/L5CfKGLCpqZ7XQ0SeXpnXyY7FBLIaBJYfGNctpvKfetieIDEH5SbuogzF7ZhwPRebr07REYN9Kcv4JjaVwJLZ0P7/ezdVkhsuSDO0TQ/o7E40kE7nTTWCl6+OWTtBlJNeBLE7vg37oMJklMKVJ1muf5S7YYK0k+/dobj8GZPOVVpyIM7xZb41oclIehwc15wLnuSO5JOAbrsy0tGXV8GeySwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_AppName__",
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.2",
+   "version_name": "1.0.2",
+   "web_accessible_resources": [ "/styles/*", "/images/*", "/webfonts/*", "/scripts/*" ]
+}

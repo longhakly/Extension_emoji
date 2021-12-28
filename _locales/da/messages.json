@@ -1,0 +1,209 @@
+{
+   "AppDesc": {
+      "message": "Tilføjer hurtige emoji-genveje til chatvinduet"
+   },
+   "AppName": {
+      "message": "Emojis til Google Meet ™"
+   },
+   "Drive": {
+      "message": "Drive-funktion"
+   },
+   "Homepage": {
+      "message": "Hjemmeside"
+   },
+   "InMeetingPlugin": {
+      "message": "I mødeplugin aktiveret"
+   },
+   "InMeetingPluginDisabled": {
+      "message": "Plugin til møde deaktiveret"
+   },
+   "RateUs": {
+      "message": "Bedøm os!"
+   },
+   "StartMeet": {
+      "message": "Start et møde"
+   },
+   "ftr_1": {
+      "message": "Tryk for at tale"
+   },
+   "ftr_10": {
+      "message": "Indstil baggrundsfarve"
+   },
+   "ftr_10_1": {
+      "message": "Indstil brugerdefineret baggrundsfarve i Meet"
+   },
+   "ftr_11": {
+      "message": "Deaktiver automatisk"
+   },
+   "ftr_11_1": {
+      "message": "Stop andre fra at dæmpe din mikrofon"
+   },
+   "ftr_12": {
+      "message": "Højttalerhøjde"
+   },
+   "ftr_12_1": {
+      "message": "Tilføjer en grænse omkring talende deltagere"
+   },
+   "ftr_13": {
+      "message": "Billede-i-billede"
+   },
+   "ftr_13_1": {
+      "message": "Se en deltagervideo i billede-i-billede"
+   },
+   "ftr_14": {
+      "message": "Gennemsigtig bar"
+   },
+   "ftr_14_1": {
+      "message": "Gør den nederste bjælke gennemsigtig"
+   },
+   "ftr_15": {
+      "message": "Mørk tilstand"
+   },
+   "ftr_15_1": {
+      "message": "Gør Google Meet mørk tilstand"
+   },
+   "ftr_16": {
+      "message": "Auto fuld skærm"
+   },
+   "ftr_16_1": {
+      "message": "Automatisk fuld skærm, når nogen præsenterer"
+   },
+   "ftr_17": {
+      "message": "Skift bundlinje"
+   },
+   "ftr_17_1": {
+      "message": "Skift den nederste kontrolbjælke for at blive vist"
+   },
+   "ftr_18": {
+      "message": "Mødetimer"
+   },
+   "ftr_18_1": {
+      "message": "Viser en mødetimer i den øverste menulinje"
+   },
+   "ftr_19": {
+      "message": "Skjul Mute Pop-up"
+   },
+   "ftr_19_1": {
+      "message": "Skjuler &quot;Taler du?&quot; pop op, når lyden er slået fra"
+   },
+   "ftr_1_2": {
+      "message": "Hold genvejstasten nede for at slå lyden til"
+   },
+   "ftr_1_3": {
+      "message": "Klik for at begynde at lytte, klik igen for at gemme."
+   },
+   "ftr_2": {
+      "message": "Auto Deltag"
+   },
+   "ftr_20": {
+      "message": "Auto-pin chat"
+   },
+   "ftr_20_1": {
+      "message": "Fastgør automatisk chatvisning, når du tilmelder dig Meet"
+   },
+   "ftr_21": {
+      "message": "Autorisér nye deltagere"
+   },
+   "ftr_21_1": {
+      "message": "Indrømmer automatisk nye deltagere til Meet"
+   },
+   "ftr_22": {
+      "message": "Auto nægt nye deltagere"
+   },
+   "ftr_22_1": {
+      "message": "Nægter automatisk nye deltagere til Meet"
+   },
+   "ftr_23": {
+      "message": "Spejlvideoer"
+   },
+   "ftr_23_1": {
+      "message": "Spejler alle videoer i Meet"
+   },
+   "ftr_24": {
+      "message": "Vis ur"
+   },
+   "ftr_24_1": {
+      "message": "Vis uret, selv når det ikke er i fuld skærm"
+   },
+   "ftr_25": {
+      "message": "Skjul pop op-vinduet &quot;Tilføj andre&quot;"
+   },
+   "ftr_25_1": {
+      "message": "Skjuler pop op-vinduet &quot;Tilføj andre&quot;, når du tilmelder dig et møde"
+   },
+   "ftr_26": {
+      "message": "Forstyr ikke"
+   },
+   "ftr_26_1": {
+      "message": "Skjul kommentarer, og brugerdeltagelse i pop op-vinduer"
+   },
+   "ftr_26_2": {
+      "message": "Skjul meddelelsesboble for kommentarer"
+   },
+   "ftr_27": {
+      "message": "Find fanen Active Meet"
+   },
+   "ftr_27_1": {
+      "message": "Klik på udvidelsesikonet for at finde den aktive fane Meet"
+   },
+   "ftr_28": {
+      "message": "Dæmp alt"
+   },
+   "ftr_28_1": {
+      "message": "Slå lyden fra for alle deltagere via deltagermenuen"
+   },
+   "ftr_29": {
+      "message": "Fjern alt"
+   },
+   "ftr_29_1": {
+      "message": "Fjern alle deltagere via deltagermenuen"
+   },
+   "ftr_2_1": {
+      "message": "Spring over deltagerskærmen"
+   },
+   "ftr_3": {
+      "message": "Hurtigt orlov"
+   },
+   "ftr_30": {
+      "message": "Hurtige Emoji-reaktioner"
+   },
+   "ftr_3_1": {
+      "message": "Brug genvejstasten til at foretage et opkald"
+   },
+   "ftr_4": {
+      "message": "Forlad bekræftelse"
+   },
+   "ftr_4_1": {
+      "message": "Bed om at bekræfte, når du forlader et møde"
+   },
+   "ftr_5": {
+      "message": "Auto billedtekster"
+   },
+   "ftr_5_1": {
+      "message": "Aktivér billedtekst automatisk"
+   },
+   "ftr_6": {
+      "message": "Dæmp automatisk"
+   },
+   "ftr_6_1": {
+      "message": "Dæmp automatisk mikrofon ved deltagelse"
+   },
+   "ftr_7": {
+      "message": "Auto video slukket"
+   },
+   "ftr_7_1": {
+      "message": "Sæt video til fra ved deltagelse"
+   },
+   "ftr_8": {
+      "message": "Stift med bund nederst"
+   },
+   "ftr_8_1": {
+      "message": "Fastgør kontrolbjælken til bunden af skærmen"
+   },
+   "ftr_9": {
+      "message": "Skjul navne"
+   },
+   "ftr_9_1": {
+      "message": "Skjuler deltagernes navne på deres videoer"
+   }
+}

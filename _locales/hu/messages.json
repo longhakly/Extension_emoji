@@ -1,0 +1,209 @@
+{
+   "AppDesc": {
+      "message": "Gyors emoji parancsikonokat ad a csevegőablakhoz"
+   },
+   "AppName": {
+      "message": "Hangulatjelek a Google Meet ™ szolgáltatáshoz"
+   },
+   "Drive": {
+      "message": "Drive funkció"
+   },
+   "Homepage": {
+      "message": "Homepage"
+   },
+   "InMeetingPlugin": {
+      "message": "Az értekezlet plugin engedélyezve"
+   },
+   "InMeetingPluginDisabled": {
+      "message": "Az értekezlet plugin letiltva"
+   },
+   "RateUs": {
+      "message": "Kérjük, értékelje minket!"
+   },
+   "StartMeet": {
+      "message": "Indítson egy Meet-et"
+   },
+   "ftr_1": {
+      "message": "Push to Talk"
+   },
+   "ftr_10": {
+      "message": "Háttérszín beállítása"
+   },
+   "ftr_10_1": {
+      "message": "Egyéni háttérszín beállítása a Meet alkalmazásban"
+   },
+   "ftr_11": {
+      "message": "Automatikus némítás"
+   },
+   "ftr_11_1": {
+      "message": "Ne akadályozzon másokat abban, hogy elnémítsák a mikrofont"
+   },
+   "ftr_12": {
+      "message": "Hangszóró kiemelése"
+   },
+   "ftr_12_1": {
+      "message": "Szegélyt ad a beszélő résztvevők köré"
+   },
+   "ftr_13": {
+      "message": "Kép a képben"
+   },
+   "ftr_13_1": {
+      "message": "A résztvevők videóinak megtekintése kép a képben"
+   },
+   "ftr_14": {
+      "message": "Átlátszó bár"
+   },
+   "ftr_14_1": {
+      "message": "Tegye átlátszóvá az alsó sávot"
+   },
+   "ftr_15": {
+      "message": "Sötét mód"
+   },
+   "ftr_15_1": {
+      "message": "A Google Meet sötét módot készít"
+   },
+   "ftr_16": {
+      "message": "Automatikus teljes képernyő"
+   },
+   "ftr_16_1": {
+      "message": "Automatikus teljes képernyős, ha valaki bemutat"
+   },
+   "ftr_17": {
+      "message": "Váltás az alsó sávon"
+   },
+   "ftr_17_1": {
+      "message": "Változtassa meg az alsó vezérlősávot a megjelenéshez"
+   },
+   "ftr_18": {
+      "message": "Találkozó időzítő"
+   },
+   "ftr_18_1": {
+      "message": "Megjeleníti a találkozó időzítőjét a felső menüsorban"
+   },
+   "ftr_19": {
+      "message": "Elrejtés elrejtése"
+   },
+   "ftr_19_1": {
+      "message": "Elrejti &quot;Beszélsz?&quot; felugró ablak, ha némítva van"
+   },
+   "ftr_1_2": {
+      "message": "A némítás feloldásához tartsa lenyomva a gyorsbillentyűt"
+   },
+   "ftr_1_3": {
+      "message": "Kattintson a hallgatás megkezdéséhez, kattintson újra a mentéshez."
+   },
+   "ftr_2": {
+      "message": "Automatikus csatlakozás"
+   },
+   "ftr_20": {
+      "message": "Csevegés automatikus rögzítése"
+   },
+   "ftr_20_1": {
+      "message": "Automatikusan rögzíti a csevegés nézetet, amikor csatlakozik a Meethez"
+   },
+   "ftr_21": {
+      "message": "Új belépők automatikus befogadása"
+   },
+   "ftr_21_1": {
+      "message": "Automatikusan felveszi az új belépőket a Meet-be"
+   },
+   "ftr_22": {
+      "message": "Az új belépők automatikus megtagadása"
+   },
+   "ftr_22_1": {
+      "message": "Automatikusan megtagadja a Meet új belépőit"
+   },
+   "ftr_23": {
+      "message": "Tükör videók"
+   },
+   "ftr_23_1": {
+      "message": "Tükrözi a Meet összes videóját"
+   },
+   "ftr_24": {
+      "message": "Óra megjelenítése"
+   },
+   "ftr_24_1": {
+      "message": "Az óra megjelenítése akkor is, ha nem teljes képernyős"
+   },
+   "ftr_25": {
+      "message": "Az &quot;Egyéb hozzáadása&quot; előugró ablak elrejtése"
+   },
+   "ftr_25_1": {
+      "message": "Elrejti az &quot;Egyéb hozzáadása&quot; előugró ablakot, amikor csatlakozik a Meethez"
+   },
+   "ftr_26": {
+      "message": "Ne zavarj"
+   },
+   "ftr_26_1": {
+      "message": "Megjegyzések elrejtése és a felhasználók csatlakozása előugró ablakokhoz"
+   },
+   "ftr_26_2": {
+      "message": "A megjegyzés-értesítési buborék elrejtése"
+   },
+   "ftr_27": {
+      "message": "Keresse meg az Aktív Meet lapot"
+   },
+   "ftr_27_1": {
+      "message": "Kattintson a kiterjesztés ikonra az aktív Meet lap megkereséséhez"
+   },
+   "ftr_28": {
+      "message": "Összes némítása"
+   },
+   "ftr_28_1": {
+      "message": "Az összes résztvevő némítása a résztvevők menüjén keresztül"
+   },
+   "ftr_29": {
+      "message": "Összes eltávolítása"
+   },
+   "ftr_29_1": {
+      "message": "Távolítsa el az összes résztvevőt a résztvevők menüből"
+   },
+   "ftr_2_1": {
+      "message": "A csatlakozási képernyő kihagyása"
+   },
+   "ftr_3": {
+      "message": "Gyors távozás"
+   },
+   "ftr_30": {
+      "message": "Gyors Emoji reakciók"
+   },
+   "ftr_3_1": {
+      "message": "Használja a gyorsbillentyűt a hívás elhagyásához"
+   },
+   "ftr_4": {
+      "message": "Hagyja meg a megerősítést"
+   },
+   "ftr_4_1": {
+      "message": "Kérjen megerősítést, ha elhagy egy értekezletet"
+   },
+   "ftr_5": {
+      "message": "Automatikus feliratok"
+   },
+   "ftr_5_1": {
+      "message": "A feliratok automatikus bekapcsolása"
+   },
+   "ftr_6": {
+      "message": "Automatikus némítás"
+   },
+   "ftr_6_1": {
+      "message": "A mikrofon automatikus némítása csatlakozáskor"
+   },
+   "ftr_7": {
+      "message": "Automatikus videó kikapcsolás"
+   },
+   "ftr_7_1": {
+      "message": "Kapcsolja ki a videót"
+   },
+   "ftr_8": {
+      "message": "Pin alsó sáv"
+   },
+   "ftr_8_1": {
+      "message": "Rögzítse a vezérlőpultot a képernyő aljára"
+   },
+   "ftr_9": {
+      "message": "Nevek elrejtése"
+   },
+   "ftr_9_1": {
+      "message": "A résztvevők neveit elrejti a videóikon"
+   }
+}

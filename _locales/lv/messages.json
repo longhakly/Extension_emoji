@@ -1,0 +1,209 @@
+{
+   "AppDesc": {
+      "message": "Tērzēšanas logā tiek pievienoti ātri emocijzīmju saīsnes"
+   },
+   "AppName": {
+      "message": "Emocijzīmes pakalpojumam Google Meet ™"
+   },
+   "Drive": {
+      "message": "Diska funkcija"
+   },
+   "Homepage": {
+      "message": "Mājas lapa"
+   },
+   "InMeetingPlugin": {
+      "message": "Sapulcē iespējots spraudnis"
+   },
+   "InMeetingPluginDisabled": {
+      "message": "Sapulces spraudnis ir atspējots"
+   },
+   "RateUs": {
+      "message": "Lūdzu, novērtējiet mūs!"
+   },
+   "StartMeet": {
+      "message": "Sāciet Meet"
+   },
+   "ftr_1": {
+      "message": "Rācijsaziņa"
+   },
+   "ftr_10": {
+      "message": "Iestatīt fona krāsu"
+   },
+   "ftr_10_1": {
+      "message": "Iestatiet pielāgotu fona krāsu pakalpojumā Meet"
+   },
+   "ftr_11": {
+      "message": "Automātiska ieslēgšana"
+   },
+   "ftr_11_1": {
+      "message": "Lieciet citiem izslēgt mikrofona skaņu"
+   },
+   "ftr_12": {
+      "message": "Izcelt skaļruni"
+   },
+   "ftr_12_1": {
+      "message": "Pievieno robežu ap dalībnieku runāšanu"
+   },
+   "ftr_13": {
+      "message": "Attēls attēlā"
+   },
+   "ftr_13_1": {
+      "message": "Skatiet dalībnieku video attēlu attēlā"
+   },
+   "ftr_14": {
+      "message": "Caurspīdīgs bārs"
+   },
+   "ftr_14_1": {
+      "message": "Padariet apakšējo joslu caurspīdīgu"
+   },
+   "ftr_15": {
+      "message": "Tumšs režīms"
+   },
+   "ftr_15_1": {
+      "message": "Padara Google Meet tumšo režīmu"
+   },
+   "ftr_16": {
+      "message": "Automātiski pilnekrāna režīmā"
+   },
+   "ftr_16_1": {
+      "message": "Automātiski pilnekrāna režīmā, kad kāds uzstājas"
+   },
+   "ftr_17": {
+      "message": "Pārslēgt apakšējo joslu"
+   },
+   "ftr_17_1": {
+      "message": "Lai parādītu, pārslēdziet apakšējo vadības joslu"
+   },
+   "ftr_18": {
+      "message": "Tikšanās taimeris"
+   },
+   "ftr_18_1": {
+      "message": "Augšējā izvēlnes joslā parāda sapulces taimeri"
+   },
+   "ftr_19": {
+      "message": "Slēpt izslēgto uznirstošo logu"
+   },
+   "ftr_19_1": {
+      "message": "Slēpj &quot;Vai tu runā?&quot; uznirstošais logs, kad izslēgts"
+   },
+   "ftr_1_2": {
+      "message": "Turiet karsto taustiņu, lai ieslēgtu skaņu"
+   },
+   "ftr_1_3": {
+      "message": "Noklikšķiniet, lai sāktu klausīšanos, noklikšķiniet vēlreiz, lai saglabātu."
+   },
+   "ftr_2": {
+      "message": "Automātiska pievienošanās"
+   },
+   "ftr_20": {
+      "message": "Automātiski piespraust tērzēšanu"
+   },
+   "ftr_20_1": {
+      "message": "Pievienojoties Meet, automātiski piesprauž tērzēšanas skatu"
+   },
+   "ftr_21": {
+      "message": "Automātiski uzņemt jaunus dalībniekus"
+   },
+   "ftr_21_1": {
+      "message": "Automātiski uzņem jaunus dalībniekus Meet"
+   },
+   "ftr_22": {
+      "message": "Automātiski atteikt jaunpienācējus"
+   },
+   "ftr_22_1": {
+      "message": "Automātiski liedz jaunajiem dalībniekiem Meet"
+   },
+   "ftr_23": {
+      "message": "Spoguļu video"
+   },
+   "ftr_23_1": {
+      "message": "Spoguļo visus Meet satura videoklipus"
+   },
+   "ftr_24": {
+      "message": "Displeja pulkstenis"
+   },
+   "ftr_24_1": {
+      "message": "Parādīt pulksteni pat tad, ja tas nav pilnekrāna režīmā"
+   },
+   "ftr_25": {
+      "message": "Paslēpt uznirstošo logu “Pievienot citus”"
+   },
+   "ftr_25_1": {
+      "message": "Pievienojoties Meet, tiek paslēpts uznirstošais logs “Pievienot citus”"
+   },
+   "ftr_26": {
+      "message": "Netraucēt"
+   },
+   "ftr_26_1": {
+      "message": "Slēpt komentārus un lietotāju pievienoties uznirstošajiem logiem"
+   },
+   "ftr_26_2": {
+      "message": "Slēpt komentāru paziņojumu burbuli"
+   },
+   "ftr_27": {
+      "message": "Atrodiet cilni Aktīvā tikšanās"
+   },
+   "ftr_27_1": {
+      "message": "Noklikšķiniet uz paplašinājuma ikonas, lai atrastu aktīvo cilni Meet"
+   },
+   "ftr_28": {
+      "message": "Izslēgt visus"
+   },
+   "ftr_28_1": {
+      "message": "Izslēdziet visus dalībniekus, izmantojot dalībnieku izvēlni"
+   },
+   "ftr_29": {
+      "message": "Noņemt visus"
+   },
+   "ftr_29_1": {
+      "message": "Noņemiet visus dalībniekus, izmantojot dalībnieku izvēlni"
+   },
+   "ftr_2_1": {
+      "message": "Izlaist pievienošanās ekrānu"
+   },
+   "ftr_3": {
+      "message": "Ātra aiziešana"
+   },
+   "ftr_30": {
+      "message": "Ātrās emocijzīmju reakcijas"
+   },
+   "ftr_3_1": {
+      "message": "Izmantojiet karsto taustiņu, lai atstātu zvanu"
+   },
+   "ftr_4": {
+      "message": "Atstājiet apstiprinājumu"
+   },
+   "ftr_4_1": {
+      "message": "Palūdziet apstiprināt, kad atstājat sapulci"
+   },
+   "ftr_5": {
+      "message": "Automātiskie paraksti"
+   },
+   "ftr_5_1": {
+      "message": "Automātiski ieslēgt parakstus"
+   },
+   "ftr_6": {
+      "message": "Automātiska izslēgšana"
+   },
+   "ftr_6_1": {
+      "message": "Automātiski izslēgt mikrofonu, pievienojoties"
+   },
+   "ftr_7": {
+      "message": "Automātiska video izslēgšana"
+   },
+   "ftr_7_1": {
+      "message": "Iestatiet video izslēgšanu pievienojoties"
+   },
+   "ftr_8": {
+      "message": "Piespraudes apakšējā josla"
+   },
+   "ftr_8_1": {
+      "message": "Piespraust vadības joslu ekrāna apakšdaļā"
+   },
+   "ftr_9": {
+      "message": "Slēpt vārdus"
+   },
+   "ftr_9_1": {
+      "message": "Paslēpj dalībnieku vārdus savos videoklipos"
+   }
+}

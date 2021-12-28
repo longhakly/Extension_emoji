@@ -1,0 +1,209 @@
+{
+   "AppDesc": {
+      "message": "Lägger till snabba emoji-genvägar i chattfönstret"
+   },
+   "AppName": {
+      "message": "Emojis för Google Meet ™"
+   },
+   "Drive": {
+      "message": "Drive-funktion"
+   },
+   "Homepage": {
+      "message": "Hemsida"
+   },
+   "InMeetingPlugin": {
+      "message": "I mötesplugin aktiverat"
+   },
+   "InMeetingPluginDisabled": {
+      "message": "I mötesplugin inaktiverad"
+   },
+   "RateUs": {
+      "message": "Vänligen betygsätt oss!"
+   },
+   "StartMeet": {
+      "message": "Starta ett möte"
+   },
+   "ftr_1": {
+      "message": "Tryck för att prata"
+   },
+   "ftr_10": {
+      "message": "Ställ in bakgrundsfärg"
+   },
+   "ftr_10_1": {
+      "message": "Ställ in anpassad bakgrundsfärg i Meet"
+   },
+   "ftr_11": {
+      "message": "Slå på ljudet automatiskt"
+   },
+   "ftr_11_1": {
+      "message": "Stoppa andra från att stänga av din mikrofon"
+   },
+   "ftr_12": {
+      "message": "Högtalarhöjdpunkt"
+   },
+   "ftr_12_1": {
+      "message": "Lägger till en gräns runt talande deltagare"
+   },
+   "ftr_13": {
+      "message": "Bild i bild"
+   },
+   "ftr_13_1": {
+      "message": "Visa en deltagares video i bild-i-bild"
+   },
+   "ftr_14": {
+      "message": "Transparent bar"
+   },
+   "ftr_14_1": {
+      "message": "Gör bottenstången transparent"
+   },
+   "ftr_15": {
+      "message": "Mörkt läge"
+   },
+   "ftr_15_1": {
+      "message": "Gör Google Meet mörkt läge"
+   },
+   "ftr_16": {
+      "message": "Auto helskärm"
+   },
+   "ftr_16_1": {
+      "message": "Automatisk helskärm när någon presenterar"
+   },
+   "ftr_17": {
+      "message": "Växla nedre stapeln"
+   },
+   "ftr_17_1": {
+      "message": "Växla det nedre kontrollfältet för att visas"
+   },
+   "ftr_18": {
+      "message": "Mötestimern"
+   },
+   "ftr_18_1": {
+      "message": "Visar en mötestimer i den övre menyraden"
+   },
+   "ftr_19": {
+      "message": "Dölj Mute Popup"
+   },
+   "ftr_19_1": {
+      "message": "Döljer &quot;Talar du?&quot; popup när den är avstängd"
+   },
+   "ftr_1_2": {
+      "message": "Håll snabbtangenten nedtryckt för att aktivera ljudet"
+   },
+   "ftr_1_3": {
+      "message": "Klicka för att börja lyssna, klicka igen för att spara."
+   },
+   "ftr_2": {
+      "message": "Automatisk anslutning"
+   },
+   "ftr_20": {
+      "message": "Auto-pin chatt"
+   },
+   "ftr_20_1": {
+      "message": "Fäster automatiskt chattvyn när du går med i Meet"
+   },
+   "ftr_21": {
+      "message": "Autorisera nya deltagare"
+   },
+   "ftr_21_1": {
+      "message": "Medger automatiskt nya deltagare till Meet"
+   },
+   "ftr_22": {
+      "message": "Auto neka nya deltagare"
+   },
+   "ftr_22_1": {
+      "message": "Nekar automatiskt nya deltagare till Meet"
+   },
+   "ftr_23": {
+      "message": "Spegelvideor"
+   },
+   "ftr_23_1": {
+      "message": "Speglar alla videor i Meet"
+   },
+   "ftr_24": {
+      "message": "Visa klocka"
+   },
+   "ftr_24_1": {
+      "message": "Visa klockan även när den inte är i helskärm"
+   },
+   "ftr_25": {
+      "message": "Dölj popupfönstret &quot;Lägg till andra&quot;"
+   },
+   "ftr_25_1": {
+      "message": "Döljer popupfönstret &quot;Lägg till andra&quot; när du går med i ett Meet"
+   },
+   "ftr_26": {
+      "message": "Stör inte"
+   },
+   "ftr_26_1": {
+      "message": "Dölj kommentarer och popup-fönster för användare går med"
+   },
+   "ftr_26_2": {
+      "message": "Dölj kommentarbubbla"
+   },
+   "ftr_27": {
+      "message": "Hitta fliken Active Meet"
+   },
+   "ftr_27_1": {
+      "message": "Klicka på tilläggsikonen för att hitta den aktiva Meet-fliken"
+   },
+   "ftr_28": {
+      "message": "Tysta alla"
+   },
+   "ftr_28_1": {
+      "message": "Stäng av alla deltagare via deltagarnas meny"
+   },
+   "ftr_29": {
+      "message": "Ta bort alla"
+   },
+   "ftr_29_1": {
+      "message": "Ta bort alla deltagare via deltagarnas meny"
+   },
+   "ftr_2_1": {
+      "message": "Hoppa över anslutningsskärmen"
+   },
+   "ftr_3": {
+      "message": "Snabb ledighet"
+   },
+   "ftr_30": {
+      "message": "Snabba Emoji-reaktioner"
+   },
+   "ftr_3_1": {
+      "message": "Använd snabbtangenten för att ringa ett samtal"
+   },
+   "ftr_4": {
+      "message": "Lämna bekräftelse"
+   },
+   "ftr_4_1": {
+      "message": "Be om att bekräfta när du lämnar ett möte"
+   },
+   "ftr_5": {
+      "message": "Automatisk bildtext"
+   },
+   "ftr_5_1": {
+      "message": "Slå på bildtexter automatiskt"
+   },
+   "ftr_6": {
+      "message": "Tyst automatiskt"
+   },
+   "ftr_6_1": {
+      "message": "Stäng av mikrofonen automatiskt vid anslutning"
+   },
+   "ftr_7": {
+      "message": "Auto video av"
+   },
+   "ftr_7_1": {
+      "message": "Ställ in video på vid anslutning"
+   },
+   "ftr_8": {
+      "message": "Stift i botten"
+   },
+   "ftr_8_1": {
+      "message": "Fäster kontrollfältet längst ner på skärmen"
+   },
+   "ftr_9": {
+      "message": "Dölj namn"
+   },
+   "ftr_9_1": {
+      "message": "Döljer deltagarnas namn på sina videor"
+   }
+}

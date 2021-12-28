@@ -1,0 +1,209 @@
+{
+   "AppDesc": {
+      "message": "Adaugă comenzi rapide emoji rapide în fereastra de chat"
+   },
+   "AppName": {
+      "message": "Emojis pentru Google Meet ™"
+   },
+   "Drive": {
+      "message": "Funcția Drive"
+   },
+   "Homepage": {
+      "message": "Pagina principala"
+   },
+   "InMeetingPlugin": {
+      "message": "Pluginul de întâlnire activat"
+   },
+   "InMeetingPluginDisabled": {
+      "message": "Pluginul de întâlnire este dezactivat"
+   },
+   "RateUs": {
+      "message": "Vă rugăm să ne evaluați!"
+   },
+   "StartMeet": {
+      "message": "Începeți o întâlnire"
+   },
+   "ftr_1": {
+      "message": "Push To Talk"
+   },
+   "ftr_10": {
+      "message": "Setați culoarea de fundal"
+   },
+   "ftr_10_1": {
+      "message": "Setați culoarea de fundal personalizată în Meet"
+   },
+   "ftr_11": {
+      "message": "Activare automată"
+   },
+   "ftr_11_1": {
+      "message": "Oprește-i pe alții să nu-ți dezactiveze microfonul"
+   },
+   "ftr_12": {
+      "message": "Evidențierea difuzoarelor"
+   },
+   "ftr_12_1": {
+      "message": "Adaugă o margine în jurul participanților vorbitori"
+   },
+   "ftr_13": {
+      "message": "Imagine în imagine"
+   },
+   "ftr_13_1": {
+      "message": "Vizualizați un videoclip al participanților în imagine în imagine"
+   },
+   "ftr_14": {
+      "message": "Bar transparent"
+   },
+   "ftr_14_1": {
+      "message": "Faceți bara de jos transparentă"
+   },
+   "ftr_15": {
+      "message": "Modul întunecat"
+   },
+   "ftr_15_1": {
+      "message": "Face ca modul Google Dark să fie întunecat"
+   },
+   "ftr_16": {
+      "message": "Ecran complet automat"
+   },
+   "ftr_16_1": {
+      "message": "Ecran complet automat când cineva prezintă"
+   },
+   "ftr_17": {
+      "message": "Comutați bara de jos"
+   },
+   "ftr_17_1": {
+      "message": "Comutați bara de control de jos pentru a apărea"
+   },
+   "ftr_18": {
+      "message": "Timer de întâlnire"
+   },
+   "ftr_18_1": {
+      "message": "Afișează un cronometru de întâlnire în bara de meniu de sus"
+   },
+   "ftr_19": {
+      "message": "Ascundeți fereastra pop-up mută"
+   },
+   "ftr_19_1": {
+      "message": "Ascunde „Vorbești?” pop-up când este dezactivat"
+   },
+   "ftr_1_2": {
+      "message": "Țineți apăsată tasta rapidă pentru a activa sunetul"
+   },
+   "ftr_1_3": {
+      "message": "Faceți clic pentru a începe ascultarea, faceți clic din nou pentru a salva."
+   },
+   "ftr_2": {
+      "message": "Alăturare automată"
+   },
+   "ftr_20": {
+      "message": "Auto-pin Chat"
+   },
+   "ftr_20_1": {
+      "message": "Fixați automat vizualizarea chat-ului atunci când vă alăturați Meet"
+   },
+   "ftr_21": {
+      "message": "Admite automat noi participanți"
+   },
+   "ftr_21_1": {
+      "message": "Admite automat noi participanți la întâlnire"
+   },
+   "ftr_22": {
+      "message": "Refuză automat noii participanți"
+   },
+   "ftr_22_1": {
+      "message": "Refuză automat noii participanți la întâlnire"
+   },
+   "ftr_23": {
+      "message": "Video oglindă"
+   },
+   "ftr_23_1": {
+      "message": "Reflectă toate videoclipurile din Meet"
+   },
+   "ftr_24": {
+      "message": "Afișează ceasul"
+   },
+   "ftr_24_1": {
+      "message": "Afișează ceasul chiar și atunci când nu este pe ecran complet"
+   },
+   "ftr_25": {
+      "message": "Ascundeți fereastra pop-up „Adăugați altele”"
+   },
+   "ftr_25_1": {
+      "message": "Ascunde fereastra pop-up „Adăugați altele” atunci când vă alăturați unei întâlniri"
+   },
+   "ftr_26": {
+      "message": "Nu deranja"
+   },
+   "ftr_26_1": {
+      "message": "Ascundeți comentariile și utilizatorii se alătură ferestrelor pop-up"
+   },
+   "ftr_26_2": {
+      "message": "Ascunde balonul de notificare a comentariilor"
+   },
+   "ftr_27": {
+      "message": "Fila Găsire activă"
+   },
+   "ftr_27_1": {
+      "message": "Faceți clic pe pictograma extensiei pentru a găsi fila Meet activă"
+   },
+   "ftr_28": {
+      "message": "Dezactivează-l pe toți"
+   },
+   "ftr_28_1": {
+      "message": "Dezactivați sunetul tuturor participanților prin meniul participanților"
+   },
+   "ftr_29": {
+      "message": "Inlătură tot"
+   },
+   "ftr_29_1": {
+      "message": "Eliminați toți participanții prin meniul pentru participanți"
+   },
+   "ftr_2_1": {
+      "message": "Omiteți ecranul de alăturare"
+   },
+   "ftr_3": {
+      "message": "Concediu rapid"
+   },
+   "ftr_30": {
+      "message": "Reacții rapide Emoji"
+   },
+   "ftr_3_1": {
+      "message": "Utilizați tasta rapidă pentru a lăsa un apel"
+   },
+   "ftr_4": {
+      "message": "Lăsați confirmarea"
+   },
+   "ftr_4_1": {
+      "message": "Solicitați confirmarea când părăsiți o întâlnire"
+   },
+   "ftr_5": {
+      "message": "Subtitrări automate"
+   },
+   "ftr_5_1": {
+      "message": "Activați automat subtitrările"
+   },
+   "ftr_6": {
+      "message": "Dezactivare automată"
+   },
+   "ftr_6_1": {
+      "message": "Dezactivare automată a microfonului la îmbinare"
+   },
+   "ftr_7": {
+      "message": "Dezactivare video automată"
+   },
+   "ftr_7_1": {
+      "message": "Setați videoclipul la dezactivat la înscriere"
+   },
+   "ftr_8": {
+      "message": "Bara de fixare a pinului"
+   },
+   "ftr_8_1": {
+      "message": "Fixează bara de control în partea de jos a ecranului"
+   },
+   "ftr_9": {
+      "message": "Ascundeți numele"
+   },
+   "ftr_9_1": {
+      "message": "Ascunde numele participanților în videoclipurile lor"
+   }
+}

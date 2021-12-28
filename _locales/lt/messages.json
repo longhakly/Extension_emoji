@@ -1,0 +1,209 @@
+{
+   "AppDesc": {
+      "message": "Prie pokalbio lango pridedami greiti jaustukų klavišai"
+   },
+   "AppName": {
+      "message": "„Google Meet ™“ jaustukai"
+   },
+   "Drive": {
+      "message": "Disko funkcija"
+   },
+   "Homepage": {
+      "message": "Pradinis puslapis"
+   },
+   "InMeetingPlugin": {
+      "message": "Susitikime įgalintas papildinys"
+   },
+   "InMeetingPluginDisabled": {
+      "message": "Susitikimo papildinys išjungtas"
+   },
+   "RateUs": {
+      "message": "Prašau Įvertink mus!"
+   },
+   "StartMeet": {
+      "message": "Pradėkite susitikimą"
+   },
+   "ftr_1": {
+      "message": "Tiesioginis pokalbis"
+   },
+   "ftr_10": {
+      "message": "Nustatyti fono spalvą"
+   },
+   "ftr_10_1": {
+      "message": "„Meet“ nustatykite pasirinktinę fono spalvą"
+   },
+   "ftr_11": {
+      "message": "Automatinis įjungimas"
+   },
+   "ftr_11_1": {
+      "message": "Neleiskite kitiems nutildyti savo mikrofono"
+   },
+   "ftr_12": {
+      "message": "Paryškinti garsiakalbį"
+   },
+   "ftr_12_1": {
+      "message": "Pridedama riba aplink kalbančius dalyvius"
+   },
+   "ftr_13": {
+      "message": "Paveikslėlis paveikslėlyje"
+   },
+   "ftr_13_1": {
+      "message": "Peržiūrėkite dalyvių vaizdo įrašą paveikslėlyje"
+   },
+   "ftr_14": {
+      "message": "Skaidrus baras"
+   },
+   "ftr_14_1": {
+      "message": "Padarykite apatinę juostą skaidrią"
+   },
+   "ftr_15": {
+      "message": "Tamsus režimas"
+   },
+   "ftr_15_1": {
+      "message": "Palaiko „Google Meet“ tamsųjį režimą"
+   },
+   "ftr_16": {
+      "message": "Automatinis viso ekrano režimas"
+   },
+   "ftr_16_1": {
+      "message": "Automatiškai per visą ekraną, kai kas nors pristato"
+   },
+   "ftr_17": {
+      "message": "Perjungti apatinę juostą"
+   },
+   "ftr_17_1": {
+      "message": "Norėdami pasirodyti, perjunkite apatinę valdymo juostą"
+   },
+   "ftr_18": {
+      "message": "Susitikimo laikmatis"
+   },
+   "ftr_18_1": {
+      "message": "Viršutinėje meniu juostoje rodo susitikimo laikmatį"
+   },
+   "ftr_19": {
+      "message": "Slėpti nutildymo langą"
+   },
+   "ftr_19_1": {
+      "message": "Paslepia &quot;Ar tu kalbi?&quot; iššokantis langas, kai jis nutildytas"
+   },
+   "ftr_1_2": {
+      "message": "Norėdami įjungti garsą, palaikykite spartųjį klavišą"
+   },
+   "ftr_1_3": {
+      "message": "Spustelėkite, jei norite pradėti klausytis, spustelėkite dar kartą, kad išsaugotumėte."
+   },
+   "ftr_2": {
+      "message": "Automatinis prisijungimas"
+   },
+   "ftr_20": {
+      "message": "Automatiškai prisegti pokalbį"
+   },
+   "ftr_20_1": {
+      "message": "Automatiškai prisegamas pokalbio vaizdas prisijungiant prie „Meet“"
+   },
+   "ftr_21": {
+      "message": "Automatiškai priimti naujus dalyvius"
+   },
+   "ftr_21_1": {
+      "message": "Automatiškai priima naujus dalyvius į „Meet“"
+   },
+   "ftr_22": {
+      "message": "Automatiškai atmesti naujus dalyvius"
+   },
+   "ftr_22_1": {
+      "message": "Automatiškai atmeta naujus „Meet“ dalyvius"
+   },
+   "ftr_23": {
+      "message": "Veidrodiniai vaizdo įrašai"
+   },
+   "ftr_23_1": {
+      "message": "Veidrodis visus „Meet“ vaizdo įrašus"
+   },
+   "ftr_24": {
+      "message": "Ekrano laikrodis"
+   },
+   "ftr_24_1": {
+      "message": "Rodykite laikrodį net ir ne per visą ekraną"
+   },
+   "ftr_25": {
+      "message": "Slėpti iššokantįjį langą „Pridėti kitus“"
+   },
+   "ftr_25_1": {
+      "message": "Paslėpdamas „Pridėti kitus“ iššokantįjį langą prisijungdamas prie „Meet“"
+   },
+   "ftr_26": {
+      "message": "Netrukdyti"
+   },
+   "ftr_26_1": {
+      "message": "Slėpti komentarus ir vartotojams prisijungti prie iššokančiųjų langų"
+   },
+   "ftr_26_2": {
+      "message": "Slėpti komentarų pranešimų burbulą"
+   },
+   "ftr_27": {
+      "message": "Raskite skirtuką „Aktyvus susitikimas“"
+   },
+   "ftr_27_1": {
+      "message": "Spustelėkite plėtinio piktogramą, kad rastumėte aktyvų „Meet“ skirtuką"
+   },
+   "ftr_28": {
+      "message": "Nutildyti visus"
+   },
+   "ftr_28_1": {
+      "message": "Nutildyti visus dalyvius per dalyvių meniu"
+   },
+   "ftr_29": {
+      "message": "Pašalinti visus"
+   },
+   "ftr_29_1": {
+      "message": "Pašalinkite visus dalyvius per dalyvių meniu"
+   },
+   "ftr_2_1": {
+      "message": "Praleiskite prisijungimo ekraną"
+   },
+   "ftr_3": {
+      "message": "Greitas išėjimas"
+   },
+   "ftr_30": {
+      "message": "Greitos emocijų reakcijos"
+   },
+   "ftr_3_1": {
+      "message": "Norėdami palikti skambutį, naudokite spartųjį klavišą"
+   },
+   "ftr_4": {
+      "message": "Palikite patvirtinimą"
+   },
+   "ftr_4_1": {
+      "message": "Paprašykite patvirtinti, kai išeisite iš susitikimo"
+   },
+   "ftr_5": {
+      "message": "Automatiniai antraštės"
+   },
+   "ftr_5_1": {
+      "message": "Automatiškai įjungti antraštes"
+   },
+   "ftr_6": {
+      "message": "Automatinis nutildymas"
+   },
+   "ftr_6_1": {
+      "message": "Automatiškai nutildyti mikrofoną prisijungus"
+   },
+   "ftr_7": {
+      "message": "Automatinis vaizdo išjungimas"
+   },
+   "ftr_7_1": {
+      "message": "Nustatykite, kad vaizdo įrašas būtų išjungtas prisijungiant"
+   },
+   "ftr_8": {
+      "message": "Prisegti apatinę juostą"
+   },
+   "ftr_8_1": {
+      "message": "Prisegti valdymo juostą ekrano apačioje"
+   },
+   "ftr_9": {
+      "message": "Slėpti vardus"
+   },
+   "ftr_9_1": {
+      "message": "Slėpia dalyvių vardus savo vaizdo įrašuose"
+   }
+}

@@ -1,0 +1,209 @@
+{
+   "AppDesc": {
+      "message": "Dodaje szybkie skróty emoji do okna czatu"
+   },
+   "AppName": {
+      "message": "Emoji dla Google Meet ™"
+   },
+   "Drive": {
+      "message": "Funkcja napędu"
+   },
+   "Homepage": {
+      "message": "Strona główna"
+   },
+   "InMeetingPlugin": {
+      "message": "Wtyczka w spotkaniu włączona"
+   },
+   "InMeetingPluginDisabled": {
+      "message": "Wtyczka w spotkaniu wyłączona"
+   },
+   "RateUs": {
+      "message": "Oceń nas!"
+   },
+   "StartMeet": {
+      "message": "Rozpocznij spotkanie"
+   },
+   "ftr_1": {
+      "message": "Naciśnij i mów"
+   },
+   "ftr_10": {
+      "message": "Ustaw kolor tła"
+   },
+   "ftr_10_1": {
+      "message": "Ustaw niestandardowy kolor tła w Meet"
+   },
+   "ftr_11": {
+      "message": "Automatyczne wyłączanie wyciszenia"
+   },
+   "ftr_11_1": {
+      "message": "Nie pozwól innym wyciszać Twojego mikrofonu"
+   },
+   "ftr_12": {
+      "message": "Podświetlenie głośnika"
+   },
+   "ftr_12_1": {
+      "message": "Dodaje obramowanie wokół mówiących uczestników"
+   },
+   "ftr_13": {
+      "message": "Obrazek w obrazku"
+   },
+   "ftr_13_1": {
+      "message": "Obejrzyj wideo uczestników w trybie obrazu w obrazie"
+   },
+   "ftr_14": {
+      "message": "Przezroczysty pasek"
+   },
+   "ftr_14_1": {
+      "message": "Ustaw przezroczystość dolnego paska"
+   },
+   "ftr_15": {
+      "message": "Tryb ciemny"
+   },
+   "ftr_15_1": {
+      "message": "Zmienia tryb ciemny w Google Meet"
+   },
+   "ftr_16": {
+      "message": "Automatyczny pełny ekran"
+   },
+   "ftr_16_1": {
+      "message": "Automatyczny pełny ekran, gdy ktoś przeprowadza prezentację"
+   },
+   "ftr_17": {
+      "message": "Przełącz dolny pasek"
+   },
+   "ftr_17_1": {
+      "message": "Przełącz dolny pasek sterowania, aby się pojawił"
+   },
+   "ftr_18": {
+      "message": "Timer spotkania"
+   },
+   "ftr_18_1": {
+      "message": "Wyświetla licznik czasu spotkania na górnym pasku menu"
+   },
+   "ftr_19": {
+      "message": "Ukryj wyciszone okienko"
+   },
+   "ftr_19_1": {
+      "message": "Ukrywa „Czy mówisz?” wyskakujące okienko po wyciszeniu"
+   },
+   "ftr_1_2": {
+      "message": "Przytrzymaj klawisz skrótu, aby wyłączyć wyciszenie"
+   },
+   "ftr_1_3": {
+      "message": "Kliknij, aby rozpocząć słuchanie, kliknij ponownie, aby zapisać."
+   },
+   "ftr_2": {
+      "message": "Dołącz automatycznie"
+   },
+   "ftr_20": {
+      "message": "Automatyczne przypinanie czatu"
+   },
+   "ftr_20_1": {
+      "message": "Automatycznie przypina widok czatu podczas dołączania do Meet"
+   },
+   "ftr_21": {
+      "message": "Automatycznie przyjmuj nowych uczestników"
+   },
+   "ftr_21_1": {
+      "message": "Automatycznie dopuszcza nowych uczestników do Meet"
+   },
+   "ftr_22": {
+      "message": "Automatycznie odmawiaj nowym uczestnikom"
+   },
+   "ftr_22_1": {
+      "message": "Automatycznie odrzuca nowych uczestników spotkania"
+   },
+   "ftr_23": {
+      "message": "Mirror Videos"
+   },
+   "ftr_23_1": {
+      "message": "Odzwierciedla wszystkie filmy z Meet"
+   },
+   "ftr_24": {
+      "message": "Wyświetl zegar"
+   },
+   "ftr_24_1": {
+      "message": "Wyświetlaj zegar, nawet jeśli nie jest na pełnym ekranie"
+   },
+   "ftr_25": {
+      "message": "Ukryj wyskakujące okienko „Dodaj inne”"
+   },
+   "ftr_25_1": {
+      "message": "Ukrywa wyskakujące okienko „Dodaj inne” podczas dołączania do spotkania"
+   },
+   "ftr_26": {
+      "message": "Nie przeszkadzać"
+   },
+   "ftr_26_1": {
+      "message": "Ukryj komentarze i wyskakujące okienka dołączania użytkowników"
+   },
+   "ftr_26_2": {
+      "message": "Ukryj dymek z powiadomieniem o komentarzu"
+   },
+   "ftr_27": {
+      "message": "Znajdź kartę Active Meet"
+   },
+   "ftr_27_1": {
+      "message": "Kliknij ikonę rozszerzenia, aby znaleźć aktywną kartę Meet"
+   },
+   "ftr_28": {
+      "message": "Wycisz wszystko"
+   },
+   "ftr_28_1": {
+      "message": "Wycisz wszystkich uczestników za pośrednictwem menu uczestników"
+   },
+   "ftr_29": {
+      "message": "Usuń wszystko"
+   },
+   "ftr_29_1": {
+      "message": "Usuń wszystkich uczestników za pośrednictwem menu uczestników"
+   },
+   "ftr_2_1": {
+      "message": "Pomiń ekran dołączania"
+   },
+   "ftr_3": {
+      "message": "Szybki urlop"
+   },
+   "ftr_30": {
+      "message": "Szybkie reakcje emotikonów"
+   },
+   "ftr_3_1": {
+      "message": "Użyj klawisza skrótu, aby opuścić połączenie"
+   },
+   "ftr_4": {
+      "message": "Zostaw potwierdzenie"
+   },
+   "ftr_4_1": {
+      "message": "Poproś o potwierdzenie, kiedy opuścisz spotkanie"
+   },
+   "ftr_5": {
+      "message": "Napisy automatyczne"
+   },
+   "ftr_5_1": {
+      "message": "Automatyczne włączanie napisów"
+   },
+   "ftr_6": {
+      "message": "Automatyczne wyciszanie"
+   },
+   "ftr_6_1": {
+      "message": "Automatyczne wyciszanie mikrofonu przy dołączaniu"
+   },
+   "ftr_7": {
+      "message": "Automatyczne wyłączanie wideo"
+   },
+   "ftr_7_1": {
+      "message": "Wyłącz wideo przy dołączaniu"
+   },
+   "ftr_8": {
+      "message": "Przypnij dolny pasek"
+   },
+   "ftr_8_1": {
+      "message": "Przypina pasek sterowania do dolnej części ekranu"
+   },
+   "ftr_9": {
+      "message": "Ukryj nazwy"
+   },
+   "ftr_9_1": {
+      "message": "Ukrywa nazwiska uczestników w ich filmach"
+   }
+}

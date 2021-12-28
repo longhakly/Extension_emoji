@@ -1,0 +1,209 @@
+{
+   "AppDesc": {
+      "message": "Fügt dem Chat-Fenster schnelle Emoji-Verknüpfungen hinzu"
+   },
+   "AppName": {
+      "message": "Emojis für Google Meet ™"
+   },
+   "Drive": {
+      "message": "Laufwerksfunktion"
+   },
+   "Homepage": {
+      "message": "Startseite"
+   },
+   "InMeetingPlugin": {
+      "message": "Im Meeting Plugin aktiviert"
+   },
+   "InMeetingPluginDisabled": {
+      "message": "Im Meeting Plugin deaktiviert"
+   },
+   "RateUs": {
+      "message": "Bitte bewerten Sie uns!"
+   },
+   "StartMeet": {
+      "message": "Starten Sie ein Treffen"
+   },
+   "ftr_1": {
+      "message": "Drücken, um zu sprechen"
+   },
+   "ftr_10": {
+      "message": "Hintergrundfarbe einstellen"
+   },
+   "ftr_10_1": {
+      "message": "Legen Sie im Meet eine benutzerdefinierte Hintergrundfarbe fest"
+   },
+   "ftr_11": {
+      "message": "Automatische Stummschaltung aufheben"
+   },
+   "ftr_11_1": {
+      "message": "Verhindern Sie, dass andere Ihr Mikrofon stumm schalten"
+   },
+   "ftr_12": {
+      "message": "Lautsprecher hervorheben"
+   },
+   "ftr_12_1": {
+      "message": "Fügt einen Rahmen um sprechende Teilnehmer hinzu"
+   },
+   "ftr_13": {
+      "message": "Bild im Bild"
+   },
+   "ftr_13_1": {
+      "message": "Sehen Sie sich ein Teilnehmervideo in Bild-in-Bild an"
+   },
+   "ftr_14": {
+      "message": "Transparente Leiste"
+   },
+   "ftr_14_1": {
+      "message": "Machen Sie die untere Leiste transparent"
+   },
+   "ftr_15": {
+      "message": "Dunkler Modus"
+   },
+   "ftr_15_1": {
+      "message": "Macht Google Meet zum dunklen Modus"
+   },
+   "ftr_16": {
+      "message": "Automatischer Vollbildmodus"
+   },
+   "ftr_16_1": {
+      "message": "Automatischer Vollbildmodus, wenn jemand präsentiert"
+   },
+   "ftr_17": {
+      "message": "Untere Leiste umschalten"
+   },
+   "ftr_17_1": {
+      "message": "Schalten Sie die untere Steuerleiste ein, um angezeigt zu werden"
+   },
+   "ftr_18": {
+      "message": "Besprechungstimer"
+   },
+   "ftr_18_1": {
+      "message": "Zeigt einen Besprechungstimer in der oberen Menüleiste an"
+   },
+   "ftr_19": {
+      "message": "Stummes Popup ausblenden"
+   },
+   "ftr_19_1": {
+      "message": "Versteckt &quot;Sprichst du?&quot; Popup, wenn stummgeschaltet"
+   },
+   "ftr_1_2": {
+      "message": "Halten Sie die Tastenkombination gedrückt, um die Stummschaltung aufzuheben"
+   },
+   "ftr_1_3": {
+      "message": "Klicken Sie, um mit dem Hören zu beginnen, und klicken Sie erneut, um zu speichern."
+   },
+   "ftr_2": {
+      "message": "Auto Join"
+   },
+   "ftr_20": {
+      "message": "Auto-Pin-Chat"
+   },
+   "ftr_20_1": {
+      "message": "Steckt die Chat-Ansicht automatisch, wenn Sie Meet beitreten"
+   },
+   "ftr_21": {
+      "message": "Neue Teilnehmer automatisch zulassen"
+   },
+   "ftr_21_1": {
+      "message": "Lässt automatisch neue Teilnehmer zum Meet zu"
+   },
+   "ftr_22": {
+      "message": "Neue Teilnehmer automatisch verweigern"
+   },
+   "ftr_22_1": {
+      "message": "Verweigert automatisch neue Teilnehmer am Meet"
+   },
+   "ftr_23": {
+      "message": "Videos spiegeln"
+   },
+   "ftr_23_1": {
+      "message": "Spiegelt alle Videos im Meet wider"
+   },
+   "ftr_24": {
+      "message": "Uhr anzeigen"
+   },
+   "ftr_24_1": {
+      "message": "Zeigen Sie die Uhr auch dann an, wenn Sie nicht im Vollbildmodus sind"
+   },
+   "ftr_25": {
+      "message": "Popup &quot;Andere hinzufügen&quot; ausblenden"
+   },
+   "ftr_25_1": {
+      "message": "Blendet das Popup &quot;Andere hinzufügen&quot; aus, wenn Sie an einem Meet teilnehmen"
+   },
+   "ftr_26": {
+      "message": "Nicht stören"
+   },
+   "ftr_26_1": {
+      "message": "Kommentare ausblenden und Benutzer Popups hinzufügen"
+   },
+   "ftr_26_2": {
+      "message": "Kommentarbenachrichtigungsblase ausblenden"
+   },
+   "ftr_27": {
+      "message": "Registerkarte &quot;Aktives Treffen suchen&quot;"
+   },
+   "ftr_27_1": {
+      "message": "Klicken Sie auf das Erweiterungssymbol, um die aktive Registerkarte &quot;Besprechung&quot; zu finden"
+   },
+   "ftr_28": {
+      "message": "Alle stummschalten"
+   },
+   "ftr_28_1": {
+      "message": "Schalten Sie alle Teilnehmer über das Teilnehmermenü stumm"
+   },
+   "ftr_29": {
+      "message": "Alles entfernen"
+   },
+   "ftr_29_1": {
+      "message": "Entfernen Sie alle Teilnehmer über das Teilnehmermenü"
+   },
+   "ftr_2_1": {
+      "message": "Überspringen Sie den Beitrittsbildschirm"
+   },
+   "ftr_3": {
+      "message": "Schnellurlaub"
+   },
+   "ftr_30": {
+      "message": "Schnelle Emoji-Reaktionen"
+   },
+   "ftr_3_1": {
+      "message": "Verwenden Sie den Hotkey, um einen Anruf zu hinterlassen"
+   },
+   "ftr_4": {
+      "message": "Bestätigung hinterlassen"
+   },
+   "ftr_4_1": {
+      "message": "Bitten Sie um Bestätigung, wenn Sie eine Besprechung verlassen"
+   },
+   "ftr_5": {
+      "message": "Automatische Untertitel"
+   },
+   "ftr_5_1": {
+      "message": "Untertitel automatisch einschalten"
+   },
+   "ftr_6": {
+      "message": "Automatische Stummschaltung"
+   },
+   "ftr_6_1": {
+      "message": "Mikrofon beim Verbinden automatisch stumm schalten"
+   },
+   "ftr_7": {
+      "message": "Auto Video aus"
+   },
+   "ftr_7_1": {
+      "message": "Schalten Sie das Video beim Beitritt aus"
+   },
+   "ftr_8": {
+      "message": "Pin Bottom Bar"
+   },
+   "ftr_8_1": {
+      "message": "Steckt die Steuerleiste am unteren Bildschirmrand fest"
+   },
+   "ftr_9": {
+      "message": "Namen ausblenden"
+   },
+   "ftr_9_1": {
+      "message": "Blendet die Namen der Teilnehmer in ihren Videos aus"
+   }
+}

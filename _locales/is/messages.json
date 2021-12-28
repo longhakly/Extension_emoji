@@ -1,0 +1,209 @@
+{
+  "AppDesc": {
+    "message": "Bætir skjótum emoji flýtileiðum við spjallgluggann"
+  },
+  "Homepage": {
+    "message": "Heimasíða"
+  },
+  "RateUs": {
+    "message": "Vinsamlegast metið okkur!"
+  },
+  "Drive": {
+    "message": "Drive lögun"
+  },
+  "InMeetingPlugin": {
+    "message": "Í viðbót við fundi virkt"
+  },
+  "InMeetingPluginDisabled": {
+    "message": "Í viðbót við fundi óvirk"
+  },
+  "StartMeet": {
+    "message": "Hefja fund"
+  },
+  "ftr_1": {
+    "message": "Ýttu til að tala"
+  },
+  "ftr_1_2": {
+    "message": "Haltu inni flýtilykli til að slökkva á hljóðinu"
+  },
+  "ftr_1_3": {
+    "message": "Smelltu til að byrja að hlusta, smelltu aftur til að vista."
+  },
+  "ftr_2": {
+    "message": "Sjálfvirk þátttaka"
+  },
+  "ftr_2_1": {
+    "message": "Slepptu þátttökuskjánum"
+  },
+  "ftr_3": {
+    "message": "Fljótur Leyfi"
+  },
+  "ftr_3_1": {
+    "message": "Notaðu flýtilykil til að hringja"
+  },
+  "ftr_4": {
+    "message": "Leyfi staðfestingu"
+  },
+  "ftr_4_1": {
+    "message": "Biddu um að staðfesta þegar þú yfirgefur fund"
+  },
+  "ftr_5": {
+    "message": "Sjálfvirkar myndatextar"
+  },
+  "ftr_5_1": {
+    "message": "Sjálfvirk kveikja á myndatexta"
+  },
+  "ftr_6": {
+    "message": "Sjálfvirk þöggun"
+  },
+  "ftr_6_1": {
+    "message": "Sjálfvirkur hljóðnemi við tengingu"
+  },
+  "ftr_7": {
+    "message": "Sjálfvirkt myndband slökkt"
+  },
+  "ftr_7_1": {
+    "message": "Kveiktu á vídeói við þátttöku"
+  },
+  "ftr_8": {
+    "message": "Pin botn Bar"
+  },
+  "ftr_8_1": {
+    "message": "Pinna stjórnstöngina neðst á skjánum"
+  },
+  "ftr_9": {
+    "message": "Fela nöfn"
+  },
+  "ftr_9_1": {
+    "message": "Fela nöfn þátttakenda á myndskeiðum sínum"
+  },
+  "ftr_10": {
+    "message": "Stilltu bakgrunnslit"
+  },
+  "ftr_10_1": {
+    "message": "Stilltu sérsniðinn bakgrunnslit í Meet"
+  },
+  "ftr_11": {
+    "message": "Sjálfvirkt þagga"
+  },
+  "ftr_11_1": {
+    "message": "Hættu því að aðrir þaggi hljóðnemann þinn"
+  },
+  "ftr_12": {
+    "message": "Hátalari hátalara"
+  },
+  "ftr_12_1": {
+    "message": "Bætir landamærum við að tala þátttakendur"
+  },
+  "ftr_13": {
+    "message": "Mynd í mynd"
+  },
+  "ftr_13_1": {
+    "message": "Skoðaðu myndskeið þátttakenda í mynd-í-mynd"
+  },
+  "ftr_14": {
+    "message": "Gegnsætt bar"
+  },
+  "ftr_14_1": {
+    "message": "Gerðu botnstöngina gagnsæja"
+  },
+  "ftr_15": {
+    "message": "Dark Mode"
+  },
+  "ftr_15_1": {
+    "message": "Gerir Google Meet dökkan hátt"
+  },
+  "ftr_16": {
+    "message": "Sjálfvirkur fullskjárinn"
+  },
+  "ftr_16_1": {
+    "message": "Sjálfvirkur fullskjár þegar einhver er að kynna"
+  },
+  "ftr_17": {
+    "message": "Skipta um botnstiku"
+  },
+  "ftr_17_1": {
+    "message": "Skiptu um neðri stjórnstöngina til að birtast"
+  },
+  "ftr_18": {
+    "message": "Tímamælir fundar"
+  },
+  "ftr_18_1": {
+    "message": "Birtir fundartíma í efstu valmyndastikunni"
+  },
+  "ftr_19": {
+    "message": "Fela Mute Popup"
+  },
+  "ftr_19_1": {
+    "message": "Felur &quot;Ertu að tala?&quot; sprettiglugga þegar þaggað er niður"
+  },
+  "ftr_20": {
+    "message": "Sjálfvirkt pinna spjall"
+  },
+  "ftr_20_1": {
+    "message": "Festir spjallskoðun sjálfkrafa við þátttöku í Meet"
+  },
+  "ftr_21": {
+    "message": "Sjálfvirkt viðurkenna nýja þátttakendur"
+  },
+  "ftr_21_1": {
+    "message": "Tekur sjálfkrafa inn nýja þátttakendur á Meet"
+  },
+  "ftr_22": {
+    "message": "Auto Neyja nýjum þátttakendum"
+  },
+  "ftr_22_1": {
+    "message": "Neitar sjálfkrafa nýjum þátttakendum á Meet"
+  },
+  "ftr_23": {
+    "message": "Spegilmyndbönd"
+  },
+  "ftr_23_1": {
+    "message": "Speglar öll myndskeið á Meet"
+  },
+  "ftr_24": {
+    "message": "Sýna klukku"
+  },
+  "ftr_24_1": {
+    "message": "Sýndu klukkuna jafnvel þegar hún er ekki á fullri skjá"
+  },
+  "ftr_25": {
+    "message": "Fela sprettigluggann „Bæta við öðrum“"
+  },
+  "ftr_25_1": {
+    "message": "Fela „Bæta við öðrum“ sprettiglugga þegar þú tekur þátt í Meet"
+  },
+  "ftr_26": {
+    "message": "Ekki trufla"
+  },
+  "ftr_26_1": {
+    "message": "Fela athugasemdir og notendur taka þátt í sprettiglugga"
+  },
+  "ftr_26_2": {
+    "message": "Fela athugasemdatilkynningabólu"
+  },
+  "ftr_27": {
+    "message": "Finndu Active Meet flipann"
+  },
+  "ftr_27_1": {
+    "message": "Smelltu á viðbótartáknið til að finna virka Meet flipann"
+  },
+  "ftr_28": {
+    "message": "Þagga allt"
+  },
+  "ftr_28_1": {
+    "message": "Þagga alla þátttakendur í gegnum valmynd þátttakenda"
+  },
+  "ftr_29": {
+    "message": "Fjarlægja allt"
+  },
+  "ftr_29_1": {
+    "message": "Fjarlægðu alla þátttakendur um valmynd þátttakenda"
+  },
+  "ftr_30": {
+    "message": "Fljótleg Emoji viðbrögð"
+  },
+  "AppName": {
+    "message": "Emojis fyrir Google Meet ™"
+  }
+}

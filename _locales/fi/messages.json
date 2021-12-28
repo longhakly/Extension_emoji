@@ -1,0 +1,209 @@
+{
+   "AppDesc": {
+      "message": "Lisää pikakuvakkeet pikanäppäimiin chat-ikkunaan"
+   },
+   "AppName": {
+      "message": "Hymiöt Google Meet ™ -sovellukselle"
+   },
+   "Drive": {
+      "message": "Drive-ominaisuus"
+   },
+   "Homepage": {
+      "message": "kotisivu"
+   },
+   "InMeetingPlugin": {
+      "message": "Kokouksessa laajennus käytössä"
+   },
+   "InMeetingPluginDisabled": {
+      "message": "Kokouksessa laajennus poistettu käytöstä"
+   },
+   "RateUs": {
+      "message": "Ole hyvä ja arvioi meitä!"
+   },
+   "StartMeet": {
+      "message": "Aloita Meet"
+   },
+   "ftr_1": {
+      "message": "Paina puhuaksesi"
+   },
+   "ftr_10": {
+      "message": "Aseta taustaväri"
+   },
+   "ftr_10_1": {
+      "message": "Aseta mukautettu taustaväri Meetissa"
+   },
+   "ftr_11": {
+      "message": "Automaattinen mykistys"
+   },
+   "ftr_11_1": {
+      "message": "Estä muita mykistämästä mikrofoniasi"
+   },
+   "ftr_12": {
+      "message": "Kaiuttimen korostus"
+   },
+   "ftr_12_1": {
+      "message": "Lisää reunan puhuvien osallistujien ympärille"
+   },
+   "ftr_13": {
+      "message": "Kuva kuvassa"
+   },
+   "ftr_13_1": {
+      "message": "Katso osallistujien video kuvassa-kuvassa"
+   },
+   "ftr_14": {
+      "message": "Läpinäkyvä baari"
+   },
+   "ftr_14_1": {
+      "message": "Tee pohjapalkki läpinäkyväksi"
+   },
+   "ftr_15": {
+      "message": "Tumma tila"
+   },
+   "ftr_15_1": {
+      "message": "Tekee Google Meetin pimeästä tilasta"
+   },
+   "ftr_16": {
+      "message": "Automaattinen koko näyttö"
+   },
+   "ftr_16_1": {
+      "message": "Automaattinen koko näyttö, kun joku esiintyy"
+   },
+   "ftr_17": {
+      "message": "Vaihda pohjapalkki"
+   },
+   "ftr_17_1": {
+      "message": "Vaihda alempi ohjauspalkki näkyviin"
+   },
+   "ftr_18": {
+      "message": "Kokousajastin"
+   },
+   "ftr_18_1": {
+      "message": "Näyttää kokousajastimen ylimmässä valikkorivissä"
+   },
+   "ftr_19": {
+      "message": "Piilota mykistysikkuna"
+   },
+   "ftr_19_1": {
+      "message": "Piilottaa &quot;Puhutko?&quot; ponnahdusikkuna mykistettynä"
+   },
+   "ftr_1_2": {
+      "message": "Poista mykistys pitämällä pikanäppäintä painettuna"
+   },
+   "ftr_1_3": {
+      "message": "Aloita kuuntelu napsauttamalla, tallenna napsauttamalla uudelleen."
+   },
+   "ftr_2": {
+      "message": "Automaattinen liittyminen"
+   },
+   "ftr_20": {
+      "message": "Kiinnitä chat automaattisesti"
+   },
+   "ftr_20_1": {
+      "message": "Kiinnittää chat-näkymän automaattisesti liittyessään Meetiin"
+   },
+   "ftr_21": {
+      "message": "Uusien tulokkaiden automaattinen hyväksyminen"
+   },
+   "ftr_21_1": {
+      "message": "Uusien tulokkaiden automaattinen hyväksyminen Meetiin"
+   },
+   "ftr_22": {
+      "message": "Estä uudet tulokkaat automaattisesti"
+   },
+   "ftr_22_1": {
+      "message": "Estää automaattisesti uudet tulokkaat Meetiin"
+   },
+   "ftr_23": {
+      "message": "Peilivideot"
+   },
+   "ftr_23_1": {
+      "message": "Peilaa kaikki Meetin videot"
+   },
+   "ftr_24": {
+      "message": "Näytä kello"
+   },
+   "ftr_24_1": {
+      "message": "Näytä kello silloinkin, kun se ei ole koko näytössä"
+   },
+   "ftr_25": {
+      "message": "Piilota Lisää muita -ponnahdusikkuna"
+   },
+   "ftr_25_1": {
+      "message": "Piilottaa Lisää muita -ponnahdusikkunan liittyessään Meetiin"
+   },
+   "ftr_26": {
+      "message": "Älä häiritse"
+   },
+   "ftr_26_1": {
+      "message": "Piilota kommentit ja liity ponnahdusikkunoihin"
+   },
+   "ftr_26_2": {
+      "message": "Piilota kommentti-ilmoituskupla"
+   },
+   "ftr_27": {
+      "message": "Etsi Active Meet -välilehti"
+   },
+   "ftr_27_1": {
+      "message": "Napsauta laajennuskuvaketta löytääksesi aktiivisen Meet-välilehden"
+   },
+   "ftr_28": {
+      "message": "Mykistä kaikki"
+   },
+   "ftr_28_1": {
+      "message": "Mykistä kaikki osallistujat osallistujavalikosta"
+   },
+   "ftr_29": {
+      "message": "Poista kaikki"
+   },
+   "ftr_29_1": {
+      "message": "Poista kaikki osallistujat osallistujavalikosta"
+   },
+   "ftr_2_1": {
+      "message": "Ohita liittymisnäyttö"
+   },
+   "ftr_3": {
+      "message": "Nopea lähtö"
+   },
+   "ftr_30": {
+      "message": "Nopeat emoji-reaktiot"
+   },
+   "ftr_3_1": {
+      "message": "Käytä pikanäppäintä poistuaksesi puhelusta"
+   },
+   "ftr_4": {
+      "message": "Jätä vahvistus"
+   },
+   "ftr_4_1": {
+      "message": "Pyydä vahvistusta, kun poistut kokouksesta"
+   },
+   "ftr_5": {
+      "message": "Automaattiset tekstitykset"
+   },
+   "ftr_5_1": {
+      "message": "Ota tekstitykset käyttöön automaattisesti"
+   },
+   "ftr_6": {
+      "message": "Automaattinen mykistys"
+   },
+   "ftr_6_1": {
+      "message": "Mykistä mikrofoni automaattisesti liittyessä"
+   },
+   "ftr_7": {
+      "message": "Automaattinen videon sammutus"
+   },
+   "ftr_7_1": {
+      "message": "Aseta video pois päältä liittyessä"
+   },
+   "ftr_8": {
+      "message": "Tappi pohjapalkki"
+   },
+   "ftr_8_1": {
+      "message": "Kiinnittää ohjauspalkin näytön alareunaan"
+   },
+   "ftr_9": {
+      "message": "Piilota nimet"
+   },
+   "ftr_9_1": {
+      "message": "Piilottaa osallistujien nimet videoissaan"
+   }
+}

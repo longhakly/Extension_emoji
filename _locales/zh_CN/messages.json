@@ -1,0 +1,209 @@
+{
+   "AppDesc": {
+      "message": "将快速表情符号快捷方式添加到聊天窗口"
+   },
+   "AppName": {
+      "message": "Google Meet™表情符号"
+   },
+   "Drive": {
+      "message": "驱动功能"
+   },
+   "Homepage": {
+      "message": "主页"
+   },
+   "InMeetingPlugin": {
+      "message": "在会议插件中启用"
+   },
+   "InMeetingPluginDisabled": {
+      "message": "在会议中插件已禁用"
+   },
+   "RateUs": {
+      "message": "请给我们评分！"
+   },
+   "StartMeet": {
+      "message": "开始见面"
+   },
+   "ftr_1": {
+      "message": "一键通"
+   },
+   "ftr_10": {
+      "message": "设置背景色"
+   },
+   "ftr_10_1": {
+      "message": "在会议中设置自定义背景色"
+   },
+   "ftr_11": {
+      "message": "自动取消静音"
+   },
+   "ftr_11_1": {
+      "message": "停止其他人静音麦克风"
+   },
+   "ftr_12": {
+      "message": "演讲嘉宾"
+   },
+   "ftr_12_1": {
+      "message": "在演讲者周围添加边框"
+   },
+   "ftr_13": {
+      "message": "画中画"
+   },
+   "ftr_13_1": {
+      "message": "画中画观看参与者视频"
+   },
+   "ftr_14": {
+      "message": "透明条"
+   },
+   "ftr_14_1": {
+      "message": "使底部栏透明"
+   },
+   "ftr_15": {
+      "message": "暗模式"
+   },
+   "ftr_15_1": {
+      "message": "使Google Meet黑暗模式"
+   },
+   "ftr_16": {
+      "message": "自动全屏"
+   },
+   "ftr_16_1": {
+      "message": "有人发言时自动全屏显示"
+   },
+   "ftr_17": {
+      "message": "切换底部栏"
+   },
+   "ftr_17_1": {
+      "message": "切换底部控制栏以显示"
+   },
+   "ftr_18": {
+      "message": "会议计时器"
+   },
+   "ftr_18_1": {
+      "message": "在顶部菜单栏中显示会议计时器"
+   },
+   "ftr_19": {
+      "message": "隐藏静音弹出窗口"
+   },
+   "ftr_19_1": {
+      "message": "隐藏“你在说话吗？”静音时弹出"
+   },
+   "ftr_1_2": {
+      "message": "按住热键取消静音"
+   },
+   "ftr_1_3": {
+      "message": "单击开始收听，再次单击保存。"
+   },
+   "ftr_2": {
+      "message": "自动加入"
+   },
+   "ftr_20": {
+      "message": "自动固定聊天"
+   },
+   "ftr_20_1": {
+      "message": "加入Meet时自动固定聊天视图"
+   },
+   "ftr_21": {
+      "message": "自动接纳新进入者"
+   },
+   "ftr_21_1": {
+      "message": "自动接纳新参与者参加会议"
+   },
+   "ftr_22": {
+      "message": "自动拒绝新进入者"
+   },
+   "ftr_22_1": {
+      "message": "自动拒绝参加会议的新参与者"
+   },
+   "ftr_23": {
+      "message": "镜像视频"
+   },
+   "ftr_23_1": {
+      "message": "镜像会议中的所有视频"
+   },
+   "ftr_24": {
+      "message": "显示时钟"
+   },
+   "ftr_24_1": {
+      "message": "即使不全屏显示时钟"
+   },
+   "ftr_25": {
+      "message": "隐藏“添加其他人”弹出窗口"
+   },
+   "ftr_25_1": {
+      "message": "加入聚会时隐藏“添加其他人”弹出窗口"
+   },
+   "ftr_26": {
+      "message": "请勿打扰"
+   },
+   "ftr_26_1": {
+      "message": "隐藏评论和用户加入弹出窗口"
+   },
+   "ftr_26_2": {
+      "message": "隐藏评论通知框"
+   },
+   "ftr_27": {
+      "message": "查找活动会议选项卡"
+   },
+   "ftr_27_1": {
+      "message": "点击扩展程序图标以找到活动的“会议”标签"
+   },
+   "ftr_28": {
+      "message": "全部静音"
+   },
+   "ftr_28_1": {
+      "message": "通过参与者菜单将所有参与者静音"
+   },
+   "ftr_29": {
+      "message": "移除所有"
+   },
+   "ftr_29_1": {
+      "message": "通过参与者菜单删除所有参与者"
+   },
+   "ftr_2_1": {
+      "message": "跳过加入屏幕"
+   },
+   "ftr_3": {
+      "message": "快速离开"
+   },
+   "ftr_30": {
+      "message": "快速表情符号反应"
+   },
+   "ftr_3_1": {
+      "message": "使用热键拨打电话"
+   },
+   "ftr_4": {
+      "message": "休假确认"
+   },
+   "ftr_4_1": {
+      "message": "要求确认何时离开会议"
+   },
+   "ftr_5": {
+      "message": "自动字幕"
+   },
+   "ftr_5_1": {
+      "message": "自动开启字幕"
+   },
+   "ftr_6": {
+      "message": "自动静音"
+   },
+   "ftr_6_1": {
+      "message": "加入后自动静音麦克风"
+   },
+   "ftr_7": {
+      "message": "自动视频关闭"
+   },
+   "ftr_7_1": {
+      "message": "加入时将视频设置为关闭"
+   },
+   "ftr_8": {
+      "message": "底脚钉"
+   },
+   "ftr_8_1": {
+      "message": "将控制栏固定到屏幕底部"
+   },
+   "ftr_9": {
+      "message": "隐藏名字"
+   },
+   "ftr_9_1": {
+      "message": "隐藏参与者的视频名称"
+   }
+}

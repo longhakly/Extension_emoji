@@ -1,0 +1,212 @@
+{
+   "AppDesc": {
+      "message": "Adds quick emoji shortcuts to the chat window"
+   },
+   "AppName": {
+      "message": "Emojis for Google Meet™"
+   },
+   "Drive": {
+      "message": "Drive Feature"
+   },
+   "Homepage": {
+      "message": "Homepage"
+   },
+   "InMeetingPlugin": {
+      "message": "In meeting plugin enabled"
+   },
+   "InMeetingPluginDisabled": {
+      "message": "In meeting plugin disabled"
+   },
+   "RateUs": {
+      "message": "Please Rate Us!"
+   },
+   "StartMeet": {
+      "message": "Start a Meet"
+   },
+   "ftr_1": {
+      "message": "Push To Talk"
+   },
+   "ftr_10": {
+      "message": "Set Background Color"
+   },
+   "ftr_10_1": {
+      "message": "Set custom background color in the Meet"
+   },
+   "ftr_11": {
+      "message": "Auto Unmute"
+   },
+   "ftr_11_1": {
+      "message": "Stop other from muting your mic"
+   },
+   "ftr_12": {
+      "message": "Speaker Highlight"
+   },
+   "ftr_12_1": {
+      "message": "Adds a border around speaking participants"
+   },
+   "ftr_13": {
+      "message": "Picture-in-picture"
+   },
+   "ftr_13_1": {
+      "message": "View a participants video in picture-in-picture"
+   },
+   "ftr_14": {
+      "message": "Transparent Bar"
+   },
+   "ftr_14_1": {
+      "message": "Make the bottom bar transparent"
+   },
+   "ftr_15": {
+      "message": "Dark Mode"
+   },
+   "ftr_15_1": {
+      "message": "Makes Google Meet dark mode"
+   },
+   "ftr_16": {
+      "message": "Auto Full Screen"
+   },
+   "ftr_16_1": {
+      "message": "Auto full screen when someone is presenting"
+   },
+   "ftr_17": {
+      "message": "Toggle Bottom Bar"
+   },
+   "ftr_17_1": {
+      "message": "Toggle the bottom control bar to appear"
+   },
+   "ftr_18": {
+      "message": "Meeting Timer"
+   },
+   "ftr_18_1": {
+      "message": "Displays a meeting timer in top menu bar"
+   },
+   "ftr_19": {
+      "message": "Hide Mute Popup"
+   },
+   "ftr_19_1": {
+      "message": "Hides \"Are you speaking?\" popup when muted"
+   },
+   "ftr_1_2": {
+      "message": "Hold hotkey to unmute"
+   },
+   "ftr_1_3": {
+      "message": "Click to begin listening, click again to save."
+   },
+   "ftr_2": {
+      "message": "Auto Join"
+   },
+   "ftr_20": {
+      "message": "Auto-pin Chat"
+   },
+   "ftr_20_1": {
+      "message": "Automatically pins chat view when joining Meet"
+   },
+   "ftr_21": {
+      "message": "Auto Admit New Entrants"
+   },
+   "ftr_21_1": {
+      "message": "Automatically admits new entrants to the Meet"
+   },
+   "ftr_22": {
+      "message": "Auto Deny New Entrants"
+   },
+   "ftr_22_1": {
+      "message": "Automatically denies new entrants to the Meet"
+   },
+   "ftr_23": {
+      "message": "Mirror Videos"
+   },
+   "ftr_23_1": {
+      "message": "Mirrors all videos in the Meet"
+   },
+   "ftr_24": {
+      "message": "Display Clock"
+   },
+   "ftr_24_1": {
+      "message": "Display the clock even when not in fullscreen"
+   },
+   "ftr_25": {
+      "message": "Hide \"Add Others\" pop-up"
+   },
+   "ftr_25_1": {
+      "message": "Hides \"Add Others\" pop-up when joining a Meet"
+   },
+   "ftr_26": {
+      "message": "Do Not Disturb"
+   },
+   "ftr_26_1": {
+      "message": "Hide comments and user join pop-ups"
+   },
+   "ftr_26_2": {
+      "message": "Hide comment notification bubble"
+   },
+   "ftr_27": {
+      "message": "Find Active Meet Tab"
+   },
+   "ftr_27_1": {
+      "message": "Click the extension icon to find the active Meet tab"
+   },
+   "ftr_28": {
+      "message": "Mute All"
+   },
+   "ftr_28_1": {
+      "message": "Mute all participants via the participants menu"
+   },
+   "ftr_29": {
+      "message": "Remove All"
+   },
+   "ftr_29_1": {
+      "message": "Remove all participants via the participants menu"
+   },
+   "ftr_2_1": {
+      "message": "Skip the join screen"
+   },
+   "ftr_3": {
+      "message": "Quick Leave"
+   },
+   "ftr_30": {
+      "message": "Quick Emoji Reactions"
+   },
+   "ftr_30_1": {
+      "message": "Adds quick emoji shortcuts to the chat window"
+   },
+   "ftr_3_1": {
+      "message": "Use hotkey to leave a call"
+   },
+   "ftr_4": {
+      "message": "Leave Confirmation"
+   },
+   "ftr_4_1": {
+      "message": "Ask to confirm when you leave a meeting"
+   },
+   "ftr_5": {
+      "message": "Auto Captions"
+   },
+   "ftr_5_1": {
+      "message": "Auto turn on captions"
+   },
+   "ftr_6": {
+      "message": "Auto Mute"
+   },
+   "ftr_6_1": {
+      "message": "Auto mute microphone on join"
+   },
+   "ftr_7": {
+      "message": "Auto Video Off"
+   },
+   "ftr_7_1": {
+      "message": "Set video to off on join"
+   },
+   "ftr_8": {
+      "message": "Pin Bottom Bar"
+   },
+   "ftr_8_1": {
+      "message": "Pins the control bar to the bottom of the screen"
+   },
+   "ftr_9": {
+      "message": "Hide Names"
+   },
+   "ftr_9_1": {
+      "message": "Hides participants names on their videos"
+   }
+}

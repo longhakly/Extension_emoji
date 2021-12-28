@@ -1,0 +1,209 @@
+{
+   "AppDesc": {
+      "message": "Ajoute des raccourcis emoji rapides à la fenêtre de discussion"
+   },
+   "AppName": {
+      "message": "Emojis pour Google Meet ™"
+   },
+   "Drive": {
+      "message": "Fonction d&#39;entraînement"
+   },
+   "Homepage": {
+      "message": "Page d&#39;accueil"
+   },
+   "InMeetingPlugin": {
+      "message": "Plugin en réunion activé"
+   },
+   "InMeetingPluginDisabled": {
+      "message": "Plugin en réunion désactivé"
+   },
+   "RateUs": {
+      "message": "Veuillez nous évaluer!"
+   },
+   "StartMeet": {
+      "message": "Démarrer une rencontre"
+   },
+   "ftr_1": {
+      "message": "Appuyez pour parler"
+   },
+   "ftr_10": {
+      "message": "Définir la couleur d&#39;arrière-plan"
+   },
+   "ftr_10_1": {
+      "message": "Définir une couleur d&#39;arrière-plan personnalisée dans le Meet"
+   },
+   "ftr_11": {
+      "message": "Réactivation automatique"
+   },
+   "ftr_11_1": {
+      "message": "Empêchez les autres de couper votre micro"
+   },
+   "ftr_12": {
+      "message": "Haut-parleur"
+   },
+   "ftr_12_1": {
+      "message": "Ajoute une bordure autour des participants parlant"
+   },
+   "ftr_13": {
+      "message": "Image dans l&#39;image"
+   },
+   "ftr_13_1": {
+      "message": "Visionner une vidéo de participants en image dans l&#39;image"
+   },
+   "ftr_14": {
+      "message": "Barre transparente"
+   },
+   "ftr_14_1": {
+      "message": "Rendre la barre inférieure transparente"
+   },
+   "ftr_15": {
+      "message": "Mode sombre"
+   },
+   "ftr_15_1": {
+      "message": "Rend le mode sombre de Google Meet"
+   },
+   "ftr_16": {
+      "message": "Plein écran automatique"
+   },
+   "ftr_16_1": {
+      "message": "Plein écran automatique lorsque quelqu&#39;un présente"
+   },
+   "ftr_17": {
+      "message": "Basculer la barre inférieure"
+   },
+   "ftr_17_1": {
+      "message": "Basculez la barre de contrôle inférieure pour apparaître"
+   },
+   "ftr_18": {
+      "message": "Minuterie de réunion"
+   },
+   "ftr_18_1": {
+      "message": "Affiche un minuteur de réunion dans la barre de menu supérieure"
+   },
+   "ftr_19": {
+      "message": "Masquer la fenêtre contextuelle Muet"
+   },
+   "ftr_19_1": {
+      "message": "Cache &quot;Parlez-vous?&quot; popup lorsqu&#39;il est coupé"
+   },
+   "ftr_1_2": {
+      "message": "Maintenez la touche de raccourci pour réactiver le son"
+   },
+   "ftr_1_3": {
+      "message": "Cliquez pour commencer à écouter, cliquez à nouveau pour enregistrer."
+   },
+   "ftr_2": {
+      "message": "Rejoindre automatiquement"
+   },
+   "ftr_20": {
+      "message": "Chat auto-pin"
+   },
+   "ftr_20_1": {
+      "message": "Épingle automatiquement la vue de chat lors de la participation à Meet"
+   },
+   "ftr_21": {
+      "message": "Admettre automatiquement les nouveaux entrants"
+   },
+   "ftr_21_1": {
+      "message": "Admet automatiquement les nouveaux participants à la compétition"
+   },
+   "ftr_22": {
+      "message": "Refuser automatiquement les nouveaux entrants"
+   },
+   "ftr_22_1": {
+      "message": "Refuse automatiquement les nouveaux participants à la compétition"
+   },
+   "ftr_23": {
+      "message": "Miroir Vidéos"
+   },
+   "ftr_23_1": {
+      "message": "Reproduit toutes les vidéos de la Meet"
+   },
+   "ftr_24": {
+      "message": "Affichage de l&#39;horloge"
+   },
+   "ftr_24_1": {
+      "message": "Afficher l&#39;horloge même lorsqu&#39;elle n&#39;est pas en plein écran"
+   },
+   "ftr_25": {
+      "message": "Masquer le pop-up &quot;Ajouter d&#39;autres&quot;"
+   },
+   "ftr_25_1": {
+      "message": "Masque la fenêtre contextuelle «Ajouter d&#39;autres personnes» lors de la participation à une réunion"
+   },
+   "ftr_26": {
+      "message": "Ne pas déranger"
+   },
+   "ftr_26_1": {
+      "message": "Masquer les commentaires et les fenêtres contextuelles d&#39;inscription des utilisateurs"
+   },
+   "ftr_26_2": {
+      "message": "Masquer la bulle de notification de commentaire"
+   },
+   "ftr_27": {
+      "message": "Rechercher l&#39;onglet Meet Active"
+   },
+   "ftr_27_1": {
+      "message": "Cliquez sur l&#39;icône d&#39;extension pour trouver l&#39;onglet Meet actif"
+   },
+   "ftr_28": {
+      "message": "Rendre tout silencieux"
+   },
+   "ftr_28_1": {
+      "message": "Mettre en sourdine tous les participants via le menu des participants"
+   },
+   "ftr_29": {
+      "message": "Enlever tout"
+   },
+   "ftr_29_1": {
+      "message": "Supprimer tous les participants via le menu des participants"
+   },
+   "ftr_2_1": {
+      "message": "Passer l&#39;écran de participation"
+   },
+   "ftr_3": {
+      "message": "Congé rapide"
+   },
+   "ftr_30": {
+      "message": "Réactions rapides des emojis"
+   },
+   "ftr_3_1": {
+      "message": "Utilisez la touche de raccourci pour passer un appel"
+   },
+   "ftr_4": {
+      "message": "Confirmation de congé"
+   },
+   "ftr_4_1": {
+      "message": "Demander à confirmer lorsque vous quittez une réunion"
+   },
+   "ftr_5": {
+      "message": "Légendes automatiques"
+   },
+   "ftr_5_1": {
+      "message": "Activer automatiquement les sous-titres"
+   },
+   "ftr_6": {
+      "message": "Muet automatique"
+   },
+   "ftr_6_1": {
+      "message": "Mise en sourdine automatique du microphone lors de l&#39;inscription"
+   },
+   "ftr_7": {
+      "message": "Arrêt vidéo automatique"
+   },
+   "ftr_7_1": {
+      "message": "Désactiver la vidéo lors de la jointure"
+   },
+   "ftr_8": {
+      "message": "Barre inférieure de broche"
+   },
+   "ftr_8_1": {
+      "message": "Épingle la barre de contrôle au bas de l&#39;écran"
+   },
+   "ftr_9": {
+      "message": "Masquer les noms"
+   },
+   "ftr_9_1": {
+      "message": "Masque les noms des participants sur leurs vidéos"
+   }
+}

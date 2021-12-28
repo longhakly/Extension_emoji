@@ -1,0 +1,209 @@
+{
+   "AppDesc": {
+      "message": "Menambah pintasan emoji cepat ke tetingkap sembang"
+   },
+   "AppName": {
+      "message": "Emoji untuk Google Meet ™"
+   },
+   "Drive": {
+      "message": "Ciri Pemacu"
+   },
+   "Homepage": {
+      "message": "Laman utama"
+   },
+   "InMeetingPlugin": {
+      "message": "Plugin mesyuarat diaktifkan"
+   },
+   "InMeetingPluginDisabled": {
+      "message": "Plugin mesyuarat dilumpuhkan"
+   },
+   "RateUs": {
+      "message": "Sila Berikan Kami!"
+   },
+   "StartMeet": {
+      "message": "Mulakan Mesyuarat"
+   },
+   "ftr_1": {
+      "message": "Tekan untuk bercakap"
+   },
+   "ftr_10": {
+      "message": "Tetapkan Warna Latar Belakang"
+   },
+   "ftr_10_1": {
+      "message": "Tetapkan warna latar belakang tersuai di Meet"
+   },
+   "ftr_11": {
+      "message": "Auto Tidak Bersuara"
+   },
+   "ftr_11_1": {
+      "message": "Hentikan yang lain daripada mematikan mikrofon anda"
+   },
+   "ftr_12": {
+      "message": "Sorotan Penceramah"
+   },
+   "ftr_12_1": {
+      "message": "Menambah sempadan peserta yang bercakap"
+   },
+   "ftr_13": {
+      "message": "Gambar-dalam-gambar"
+   },
+   "ftr_13_1": {
+      "message": "Lihat video peserta dalam gambar-dalam-gambar"
+   },
+   "ftr_14": {
+      "message": "Bar Telus"
+   },
+   "ftr_14_1": {
+      "message": "Jadikan bar bawah telus"
+   },
+   "ftr_15": {
+      "message": "Mod Gelap"
+   },
+   "ftr_15_1": {
+      "message": "Menjadikan mod gelap Google Meet"
+   },
+   "ftr_16": {
+      "message": "Skrin Penuh Auto"
+   },
+   "ftr_16_1": {
+      "message": "Skrin penuh automatik semasa seseorang membuat persembahan"
+   },
+   "ftr_17": {
+      "message": "Togol Bar Bawah"
+   },
+   "ftr_17_1": {
+      "message": "Togol bar kawalan bawah untuk muncul"
+   },
+   "ftr_18": {
+      "message": "Pemasa Mesyuarat"
+   },
+   "ftr_18_1": {
+      "message": "Memaparkan pemasa mesyuarat di bar menu atas"
+   },
+   "ftr_19": {
+      "message": "Sembunyikan Pop timbul Bisu"
+   },
+   "ftr_19_1": {
+      "message": "Sembunyikan &quot;Adakah anda bercakap?&quot; muncul semasa diredamkan"
+   },
+   "ftr_1_2": {
+      "message": "Tahan kekunci panas untuk bersuara"
+   },
+   "ftr_1_3": {
+      "message": "Klik untuk mula mendengar, klik sekali lagi untuk menyimpan."
+   },
+   "ftr_2": {
+      "message": "Sertai Auto"
+   },
+   "ftr_20": {
+      "message": "Sembang Auto-pin"
+   },
+   "ftr_20_1": {
+      "message": "Sematkan paparan sembang secara automatik semasa menyertai Meet"
+   },
+   "ftr_21": {
+      "message": "Akui secara automatik Peserta Baru"
+   },
+   "ftr_21_1": {
+      "message": "Secara automatik menerima pendatang baru ke Meet"
+   },
+   "ftr_22": {
+      "message": "Auto Tolak Peserta Baru"
+   },
+   "ftr_22_1": {
+      "message": "Menolak peserta baru ke Meet secara automatik"
+   },
+   "ftr_23": {
+      "message": "Video Cermin"
+   },
+   "ftr_23_1": {
+      "message": "Mencerminkan semua video dalam Meet"
+   },
+   "ftr_24": {
+      "message": "Jam Paparan"
+   },
+   "ftr_24_1": {
+      "message": "Paparkan jam walaupun tidak di skrin penuh"
+   },
+   "ftr_25": {
+      "message": "Sembunyikan pop timbul &quot;Tambah Orang Lain&quot;"
+   },
+   "ftr_25_1": {
+      "message": "Menyembunyikan pop timbul &quot;Tambah Orang Lain&quot; semasa menyertai Meet"
+   },
+   "ftr_26": {
+      "message": "Jangan ganggu"
+   },
+   "ftr_26_1": {
+      "message": "Sembunyikan komen dan pengguna muncul"
+   },
+   "ftr_26_2": {
+      "message": "Sembunyikan gelembung pemberitahuan komen"
+   },
+   "ftr_27": {
+      "message": "Cari Tab Perjumpaan Aktif"
+   },
+   "ftr_27_1": {
+      "message": "Klik ikon peluasan untuk mencari tab Meet yang aktif"
+   },
+   "ftr_28": {
+      "message": "Redamkan Semua"
+   },
+   "ftr_28_1": {
+      "message": "Redamkan semua peserta melalui menu peserta"
+   },
+   "ftr_29": {
+      "message": "Keluarkan semua"
+   },
+   "ftr_29_1": {
+      "message": "Alih keluar semua peserta melalui menu peserta"
+   },
+   "ftr_2_1": {
+      "message": "Langkau skrin gabung"
+   },
+   "ftr_3": {
+      "message": "Cuti Pantas"
+   },
+   "ftr_30": {
+      "message": "Reaksi Emoji Pantas"
+   },
+   "ftr_3_1": {
+      "message": "Gunakan kekunci panas untuk meninggalkan panggilan"
+   },
+   "ftr_4": {
+      "message": "Tinggalkan Pengesahan"
+   },
+   "ftr_4_1": {
+      "message": "Minta mengesahkan semasa anda meninggalkan mesyuarat"
+   },
+   "ftr_5": {
+      "message": "Kapsyen Auto"
+   },
+   "ftr_5_1": {
+      "message": "Hidupkan kapsyen secara automatik"
+   },
+   "ftr_6": {
+      "message": "Redam secara automatik"
+   },
+   "ftr_6_1": {
+      "message": "Redamkan mikrofon secara automatik semasa bergabung"
+   },
+   "ftr_7": {
+      "message": "Video Auto Mati"
+   },
+   "ftr_7_1": {
+      "message": "Tetapkan video untuk dimatikan dalam penyertaan"
+   },
+   "ftr_8": {
+      "message": "Pin Bahagian Bawah"
+   },
+   "ftr_8_1": {
+      "message": "Pasangkan bar kawalan ke bahagian bawah skrin"
+   },
+   "ftr_9": {
+      "message": "Sembunyikan Nama"
+   },
+   "ftr_9_1": {
+      "message": "Menyembunyikan nama peserta pada video mereka"
+   }
+}

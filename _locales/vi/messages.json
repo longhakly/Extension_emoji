@@ -1,0 +1,209 @@
+{
+   "AppDesc": {
+      "message": "Thêm các phím tắt nhanh cho biểu tượng cảm xúc vào cửa sổ trò chuyện"
+   },
+   "AppName": {
+      "message": "Biểu tượng cảm xúc cho Google Meet ™"
+   },
+   "Drive": {
+      "message": "Tính năng Drive"
+   },
+   "Homepage": {
+      "message": "Trang chủ"
+   },
+   "InMeetingPlugin": {
+      "message": "Đã bật plugin trong cuộc họp"
+   },
+   "InMeetingPluginDisabled": {
+      "message": "Đã tắt plugin trong cuộc họp"
+   },
+   "RateUs": {
+      "message": "Hãy đánh giá chúng tôi!"
+   },
+   "StartMeet": {
+      "message": "Bắt đầu một cuộc gặp gỡ"
+   },
+   "ftr_1": {
+      "message": "Ấn chuông nói chuyện"
+   },
+   "ftr_10": {
+      "message": "Đặt màu nền"
+   },
+   "ftr_10_1": {
+      "message": "Đặt màu nền tùy chỉnh trong Meet"
+   },
+   "ftr_11": {
+      "message": "Tự động bật tiếng"
+   },
+   "ftr_11_1": {
+      "message": "Ngăn người khác tắt tiếng micrô của bạn"
+   },
+   "ftr_12": {
+      "message": "Loa nổi bật"
+   },
+   "ftr_12_1": {
+      "message": "Thêm đường viền xung quanh những người tham gia nói"
+   },
+   "ftr_13": {
+      "message": "Hình ảnh trong ảnh"
+   },
+   "ftr_13_1": {
+      "message": "Xem video của người tham gia ở chế độ hình trong ảnh"
+   },
+   "ftr_14": {
+      "message": "Thanh trong suốt"
+   },
+   "ftr_14_1": {
+      "message": "Làm cho thanh dưới cùng trong suốt"
+   },
+   "ftr_15": {
+      "message": "Chế độ tối"
+   },
+   "ftr_15_1": {
+      "message": "Đặt Google Meet ở chế độ tối"
+   },
+   "ftr_16": {
+      "message": "Tự động toàn màn hình"
+   },
+   "ftr_16_1": {
+      "message": "Tự động toàn màn hình khi ai đó đang trình bày"
+   },
+   "ftr_17": {
+      "message": "Chuyển đổi thanh dưới cùng"
+   },
+   "ftr_17_1": {
+      "message": "Chuyển đổi thanh điều khiển dưới cùng để xuất hiện"
+   },
+   "ftr_18": {
+      "message": "Hẹn giờ họp"
+   },
+   "ftr_18_1": {
+      "message": "Hiển thị hẹn giờ họp trong thanh menu trên cùng"
+   },
+   "ftr_19": {
+      "message": "Ẩn cửa sổ bật lên tắt tiếng"
+   },
+   "ftr_19_1": {
+      "message": "Ẩn &quot;Bạn đang nói?&quot; bật lên khi bị tắt tiếng"
+   },
+   "ftr_1_2": {
+      "message": "Giữ phím nóng để bật tiếng"
+   },
+   "ftr_1_3": {
+      "message": "Nhấp để bắt đầu nghe, nhấp lại để lưu."
+   },
+   "ftr_2": {
+      "message": "Tham gia tự động"
+   },
+   "ftr_20": {
+      "message": "Tự động ghim Trò chuyện"
+   },
+   "ftr_20_1": {
+      "message": "Tự động ghim chế độ xem trò chuyện khi tham gia Meet"
+   },
+   "ftr_21": {
+      "message": "Tự động nhận người mới tham gia"
+   },
+   "ftr_21_1": {
+      "message": "Tự động thừa nhận những người mới tham gia Meet"
+   },
+   "ftr_22": {
+      "message": "Tự động từ chối người mới tham gia"
+   },
+   "ftr_22_1": {
+      "message": "Tự động từ chối những người mới tham gia Gặp gỡ"
+   },
+   "ftr_23": {
+      "message": "Video phản chiếu"
+   },
+   "ftr_23_1": {
+      "message": "Phản chiếu tất cả video trong Meet"
+   },
+   "ftr_24": {
+      "message": "Đồng hồ hiển thị"
+   },
+   "ftr_24_1": {
+      "message": "Hiển thị đồng hồ ngay cả khi không ở chế độ toàn màn hình"
+   },
+   "ftr_25": {
+      "message": "Ẩn cửa sổ bật lên &quot;Thêm người khác&quot;"
+   },
+   "ftr_25_1": {
+      "message": "Ẩn cửa sổ bật lên &quot;Thêm người khác&quot; khi tham gia Gặp gỡ"
+   },
+   "ftr_26": {
+      "message": "Đừng làm phiền"
+   },
+   "ftr_26_1": {
+      "message": "Ẩn nhận xét và cửa sổ bật lên tham gia của người dùng"
+   },
+   "ftr_26_2": {
+      "message": "Ẩn bong bóng thông báo nhận xét"
+   },
+   "ftr_27": {
+      "message": "Tìm tab Gặp gỡ Hoạt động"
+   },
+   "ftr_27_1": {
+      "message": "Nhấp vào biểu tượng tiện ích để tìm tab Gặp gỡ đang hoạt động"
+   },
+   "ftr_28": {
+      "message": "Câm tất cả"
+   },
+   "ftr_28_1": {
+      "message": "Tắt tiếng tất cả người tham gia qua menu người tham gia"
+   },
+   "ftr_29": {
+      "message": "Xoá bỏ hết"
+   },
+   "ftr_29_1": {
+      "message": "Xóa tất cả những người tham gia qua menu người tham gia"
+   },
+   "ftr_2_1": {
+      "message": "Bỏ qua màn hình tham gia"
+   },
+   "ftr_3": {
+      "message": "Rời đi nhanh chóng"
+   },
+   "ftr_30": {
+      "message": "Phản ứng biểu tượng cảm xúc nhanh"
+   },
+   "ftr_3_1": {
+      "message": "Sử dụng phím nóng để để lại cuộc gọi"
+   },
+   "ftr_4": {
+      "message": "Xác nhận rời khỏi"
+   },
+   "ftr_4_1": {
+      "message": "Yêu cầu xác nhận khi bạn rời cuộc họp"
+   },
+   "ftr_5": {
+      "message": "Phụ đề tự động"
+   },
+   "ftr_5_1": {
+      "message": "Tự động bật phụ đề"
+   },
+   "ftr_6": {
+      "message": "Tự động tắt tiếng"
+   },
+   "ftr_6_1": {
+      "message": "Tự động tắt tiếng micrô khi tham gia"
+   },
+   "ftr_7": {
+      "message": "Tự động tắt video"
+   },
+   "ftr_7_1": {
+      "message": "Đặt video thành tắt khi tham gia"
+   },
+   "ftr_8": {
+      "message": "Ghim thanh dưới cùng"
+   },
+   "ftr_8_1": {
+      "message": "Ghim thanh điều khiển xuống cuối màn hình"
+   },
+   "ftr_9": {
+      "message": "Ẩn tên"
+   },
+   "ftr_9_1": {
+      "message": "Ẩn tên người tham gia trên video của họ"
+   }
+}

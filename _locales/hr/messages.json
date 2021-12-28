@@ -1,0 +1,209 @@
+{
+   "AppDesc": {
+      "message": "U prozor za chat dodaje brze prečace za emoji sličice"
+   },
+   "AppName": {
+      "message": "Emodžiji za Google Meet ™"
+   },
+   "Drive": {
+      "message": "Značajka pogona"
+   },
+   "Homepage": {
+      "message": "Početna stranica"
+   },
+   "InMeetingPlugin": {
+      "message": "U dodatku za sastanke omogućen"
+   },
+   "InMeetingPluginDisabled": {
+      "message": "U dodatku za sastanke onemogućen"
+   },
+   "RateUs": {
+      "message": "Molimo ocijenite nas!"
+   },
+   "StartMeet": {
+      "message": "Započnite sastanak"
+   },
+   "ftr_1": {
+      "message": "Pritisni za govor"
+   },
+   "ftr_10": {
+      "message": "Postavi boju pozadine"
+   },
+   "ftr_10_1": {
+      "message": "Postavite prilagođenu boju pozadine u Meetu"
+   },
+   "ftr_11": {
+      "message": "Automatsko uključivanje"
+   },
+   "ftr_11_1": {
+      "message": "Zaustavite drugima da isključuju mikrofon"
+   },
+   "ftr_12": {
+      "message": "Isticanje zvučnika"
+   },
+   "ftr_12_1": {
+      "message": "Dodaje obrub oko sudionika koji govore"
+   },
+   "ftr_13": {
+      "message": "Slika u slici"
+   },
+   "ftr_13_1": {
+      "message": "Pogledajte video zapis sudionika u slici u slici"
+   },
+   "ftr_14": {
+      "message": "Prozirna traka"
+   },
+   "ftr_14_1": {
+      "message": "Neka donja traka bude prozirna"
+   },
+   "ftr_15": {
+      "message": "Dark Mode"
+   },
+   "ftr_15_1": {
+      "message": "Google Meet čini mračnim načinom rada"
+   },
+   "ftr_16": {
+      "message": "Automatski puni zaslon"
+   },
+   "ftr_16_1": {
+      "message": "Automatski preko cijelog zaslona kada netko predstavlja"
+   },
+   "ftr_17": {
+      "message": "Prebaci donju traku"
+   },
+   "ftr_17_1": {
+      "message": "Uključite ili isključite donju kontrolnu traku"
+   },
+   "ftr_18": {
+      "message": "Tajmer sastanka"
+   },
+   "ftr_18_1": {
+      "message": "Prikazuje odbrojavanje sastanka na gornjoj traci izbornika"
+   },
+   "ftr_19": {
+      "message": "Sakrij skočni zvuk"
+   },
+   "ftr_19_1": {
+      "message": "Sakriva &quot;Govoriš li?&quot; skočni prozor kada se isključi zvuk"
+   },
+   "ftr_1_2": {
+      "message": "Držite tipku prečaca da biste je uključili"
+   },
+   "ftr_1_3": {
+      "message": "Kliknite za početak slušanja, kliknite ponovo za spremanje."
+   },
+   "ftr_2": {
+      "message": "Automatsko pridruživanje"
+   },
+   "ftr_20": {
+      "message": "Automatski prikvači chat"
+   },
+   "ftr_20_1": {
+      "message": "Automatski prikvači prikaz chata prilikom pridruživanja Meetu"
+   },
+   "ftr_21": {
+      "message": "Automatski primi nove sudionike"
+   },
+   "ftr_21_1": {
+      "message": "Automatski prima nove sudionike na Meet"
+   },
+   "ftr_22": {
+      "message": "Automatski odbij nove sudionike"
+   },
+   "ftr_22_1": {
+      "message": "Automatski odbija nove članove sastanka"
+   },
+   "ftr_23": {
+      "message": "Zrcalni videozapisi"
+   },
+   "ftr_23_1": {
+      "message": "Zrcali sve videozapise u Meetu"
+   },
+   "ftr_24": {
+      "message": "Prikaz sata"
+   },
+   "ftr_24_1": {
+      "message": "Prikažite sat čak i kada nije na cijelom zaslonu"
+   },
+   "ftr_25": {
+      "message": "Sakrij skočni prozor &quot;Dodaj ostale&quot;"
+   },
+   "ftr_25_1": {
+      "message": "Sakriva skočni prozor &quot;Dodaj druge&quot; kada se pridružite Meetu"
+   },
+   "ftr_26": {
+      "message": "Ne smetaj"
+   },
+   "ftr_26_1": {
+      "message": "Sakrij komentare i skočne prozore za pridruživanje korisnika"
+   },
+   "ftr_26_2": {
+      "message": "Sakrij oblačić s obavijestima o komentarima"
+   },
+   "ftr_27": {
+      "message": "Pronađi karticu Active Meet"
+   },
+   "ftr_27_1": {
+      "message": "Kliknite ikonu proširenja da biste pronašli aktivnu karticu Meet"
+   },
+   "ftr_28": {
+      "message": "Isključi sve"
+   },
+   "ftr_28_1": {
+      "message": "Isključite sve sudionike putem izbornika sudionika"
+   },
+   "ftr_29": {
+      "message": "Ukloniti sve"
+   },
+   "ftr_29_1": {
+      "message": "Uklonite sve sudionike putem izbornika sudionika"
+   },
+   "ftr_2_1": {
+      "message": "Preskočite zaslon za pridruživanje"
+   },
+   "ftr_3": {
+      "message": "Brzi odlazak"
+   },
+   "ftr_30": {
+      "message": "Brze emoji reakcije"
+   },
+   "ftr_3_1": {
+      "message": "Koristite interventnu tipku za napuštanje poziva"
+   },
+   "ftr_4": {
+      "message": "Ostavite potvrdu"
+   },
+   "ftr_4_1": {
+      "message": "Zatražite da potvrdite kada napuštate sastanak"
+   },
+   "ftr_5": {
+      "message": "Automatski titlovi"
+   },
+   "ftr_5_1": {
+      "message": "Automatsko uključivanje titlova"
+   },
+   "ftr_6": {
+      "message": "Automatsko isključivanje zvuka"
+   },
+   "ftr_6_1": {
+      "message": "Automatsko isključivanje mikrofona pri pridruživanju"
+   },
+   "ftr_7": {
+      "message": "Automatsko isključivanje videozapisa"
+   },
+   "ftr_7_1": {
+      "message": "Isključite videozapis pri pridruživanju"
+   },
+   "ftr_8": {
+      "message": "Donja traka s pribadačama"
+   },
+   "ftr_8_1": {
+      "message": "Prikvačite upravljačku traku za dno zaslona"
+   },
+   "ftr_9": {
+      "message": "Sakrij imena"
+   },
+   "ftr_9_1": {
+      "message": "Sakriva imena sudionika na svojim videozapisima"
+   }
+}

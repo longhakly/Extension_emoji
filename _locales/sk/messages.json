@@ -1,0 +1,209 @@
+{
+   "AppDesc": {
+      "message": "Pridáva rýchle skratky emodži do okna rozhovoru"
+   },
+   "AppName": {
+      "message": "Emodži pre Google Meet ™"
+   },
+   "Drive": {
+      "message": "Funkcia disku"
+   },
+   "Homepage": {
+      "message": "Úvodná stránka"
+   },
+   "InMeetingPlugin": {
+      "message": "V schôdzi je povolený doplnok"
+   },
+   "InMeetingPluginDisabled": {
+      "message": "Plugin schôdzky je zakázaný"
+   },
+   "RateUs": {
+      "message": "Ohodnoťte nás!"
+   },
+   "StartMeet": {
+      "message": "Začnite stretnutie"
+   },
+   "ftr_1": {
+      "message": "Push To Talk"
+   },
+   "ftr_10": {
+      "message": "Nastaviť farbu pozadia"
+   },
+   "ftr_10_1": {
+      "message": "Nastaviť vlastnú farbu pozadia na stretnutí"
+   },
+   "ftr_11": {
+      "message": "Automatické obnovenie zvuku"
+   },
+   "ftr_11_1": {
+      "message": "Zabráňte ostatným v stlmení mikrofónu"
+   },
+   "ftr_12": {
+      "message": "Zvýraznenie reproduktora"
+   },
+   "ftr_12_1": {
+      "message": "Pridá hranicu okolo hovoriacich účastníkov"
+   },
+   "ftr_13": {
+      "message": "Obraz v obraze"
+   },
+   "ftr_13_1": {
+      "message": "Prezerajte si video účastníkov v obraze v obraze"
+   },
+   "ftr_14": {
+      "message": "Priehľadná lišta"
+   },
+   "ftr_14_1": {
+      "message": "Spodnú lištu urobte priehľadnou"
+   },
+   "ftr_15": {
+      "message": "Tmavý režim"
+   },
+   "ftr_15_1": {
+      "message": "Nastaví režim Google Meet na tmavý"
+   },
+   "ftr_16": {
+      "message": "Automaticky na celú obrazovku"
+   },
+   "ftr_16_1": {
+      "message": "Automaticky zobraziť na celú obrazovku, keď niekto prezentuje"
+   },
+   "ftr_17": {
+      "message": "Prepnúť dolnú lištu"
+   },
+   "ftr_17_1": {
+      "message": "Zobrazením prepnite dolný ovládací panel"
+   },
+   "ftr_18": {
+      "message": "Časovač stretnutí"
+   },
+   "ftr_18_1": {
+      "message": "Na hornom paneli s ponukami zobrazuje časovač schôdzky"
+   },
+   "ftr_19": {
+      "message": "Skryť stlmenie vyskakovacieho okna"
+   },
+   "ftr_19_1": {
+      "message": "Skryje „Hovoríš?“ vyskakovacie okno, keď je stlmené"
+   },
+   "ftr_1_2": {
+      "message": "Podržaním klávesovej skratky zapnete zvuk"
+   },
+   "ftr_1_3": {
+      "message": "Kliknutím začnite počúvať, kliknutím znova uložíte."
+   },
+   "ftr_2": {
+      "message": "Automatické pripojenie"
+   },
+   "ftr_20": {
+      "message": "Automatické pripájanie četu"
+   },
+   "ftr_20_1": {
+      "message": "Keď sa pripájate k stretnutiu, automaticky pripne zobrazenie rozhovoru"
+   },
+   "ftr_21": {
+      "message": "Automaticky prijímať nových účastníkov"
+   },
+   "ftr_21_1": {
+      "message": "Automaticky pripúšťa nových účastníkov stretnutia"
+   },
+   "ftr_22": {
+      "message": "Automatické odmietnutie nových účastníkov"
+   },
+   "ftr_22_1": {
+      "message": "Automaticky zakáže novým účastníkom stretnutia"
+   },
+   "ftr_23": {
+      "message": "Zrkadlové videá"
+   },
+   "ftr_23_1": {
+      "message": "Zrkadlí všetky videá v službe Meet"
+   },
+   "ftr_24": {
+      "message": "Zobraziť hodiny"
+   },
+   "ftr_24_1": {
+      "message": "Zobrazujte hodiny, aj keď nie sú na celú obrazovku"
+   },
+   "ftr_25": {
+      "message": "Skryť vyskakovacie okno „Pridať ďalšie“"
+   },
+   "ftr_25_1": {
+      "message": "Pri pripájaní k schôdzke skryje vyskakovacie okno „Pridať ďalších“"
+   },
+   "ftr_26": {
+      "message": "Nevyrušujte"
+   },
+   "ftr_26_1": {
+      "message": "Skryť komentáre a kontextové okná používateľov"
+   },
+   "ftr_26_2": {
+      "message": "Skryť bublinu upozornenia na komentár"
+   },
+   "ftr_27": {
+      "message": "Nájdite kartu Aktívne stretnutia"
+   },
+   "ftr_27_1": {
+      "message": "Kliknutím na ikonu rozšírenia nájdete aktívnu kartu Stretnutie"
+   },
+   "ftr_28": {
+      "message": "Ignorovať všetko"
+   },
+   "ftr_28_1": {
+      "message": "Ignorovať všetkých účastníkov prostredníctvom ponuky účastníkov"
+   },
+   "ftr_29": {
+      "message": "Odobrať všetky"
+   },
+   "ftr_29_1": {
+      "message": "Odstráňte všetkých účastníkov pomocou ponuky účastníkov"
+   },
+   "ftr_2_1": {
+      "message": "Preskočte obrazovku na pripojenie"
+   },
+   "ftr_3": {
+      "message": "Rýchly odchod"
+   },
+   "ftr_30": {
+      "message": "Rýchle reakcie emodži"
+   },
+   "ftr_3_1": {
+      "message": "Na ukončenie hovoru použite klávesovú skratku"
+   },
+   "ftr_4": {
+      "message": "Nechajte potvrdenie"
+   },
+   "ftr_4_1": {
+      "message": "Keď opustíte schôdzku, požiadajte o potvrdenie"
+   },
+   "ftr_5": {
+      "message": "Automatické titulky"
+   },
+   "ftr_5_1": {
+      "message": "Automatické zapínanie titulkov"
+   },
+   "ftr_6": {
+      "message": "Auto Mute"
+   },
+   "ftr_6_1": {
+      "message": "Automaticky stlmiť mikrofón po pripojení"
+   },
+   "ftr_7": {
+      "message": "Auto Video Off"
+   },
+   "ftr_7_1": {
+      "message": "Nastaviť vypnutie videa pri pripojení"
+   },
+   "ftr_8": {
+      "message": "Pripnúť spodnú lištu"
+   },
+   "ftr_8_1": {
+      "message": "Pripája ovládací panel k dolnej časti obrazovky"
+   },
+   "ftr_9": {
+      "message": "Skryť mená"
+   },
+   "ftr_9_1": {
+      "message": "Skryje mená účastníkov do ich videí"
+   }
+}

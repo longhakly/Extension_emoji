@@ -1,0 +1,209 @@
+{
+   "AppDesc": {
+      "message": "Sohbet penceresine hızlı emoji kısayolları ekler"
+   },
+   "AppName": {
+      "message": "Google Meet ™ için Emojiler"
+   },
+   "Drive": {
+      "message": "Sürücü Özelliği"
+   },
+   "Homepage": {
+      "message": "Anasayfa"
+   },
+   "InMeetingPlugin": {
+      "message": "Toplantıda eklenti etkinleştirildi"
+   },
+   "InMeetingPluginDisabled": {
+      "message": "Toplantıda eklenti devre dışı"
+   },
+   "RateUs": {
+      "message": "Lütfen Bizi Takip Edin!"
+   },
+   "StartMeet": {
+      "message": "Buluşma Başlatın"
+   },
+   "ftr_1": {
+      "message": "Konuşmak için bas"
+   },
+   "ftr_10": {
+      "message": "Arka Plan Rengini Ayarla"
+   },
+   "ftr_10_1": {
+      "message": "Meet&#39;te özel arka plan rengi ayarlayın"
+   },
+   "ftr_11": {
+      "message": "Otomatik Sesi Aç"
+   },
+   "ftr_11_1": {
+      "message": "Diğerlerinin mikrofonunuzu sessize almasını engelleyin"
+   },
+   "ftr_12": {
+      "message": "Hoparlör Vurgu"
+   },
+   "ftr_12_1": {
+      "message": "Konuşan katılımcıların etrafına bir sınır ekler"
+   },
+   "ftr_13": {
+      "message": "Fotoğraf içinde fotoğraf"
+   },
+   "ftr_13_1": {
+      "message": "Katılımcı videosunu pencere içinde resim olarak görüntüleyin"
+   },
+   "ftr_14": {
+      "message": "Şeffaf Bar"
+   },
+   "ftr_14_1": {
+      "message": "Alt çubuğu şeffaf yapın"
+   },
+   "ftr_15": {
+      "message": "Karanlık modu"
+   },
+   "ftr_15_1": {
+      "message": "Google Meet&#39;i karanlık mod yapar"
+   },
+   "ftr_16": {
+      "message": "Otomatik Tam Ekran"
+   },
+   "ftr_16_1": {
+      "message": "Birisi sunum yaparken otomatik tam ekran"
+   },
+   "ftr_17": {
+      "message": "Alt Çubuğu Değiştir"
+   },
+   "ftr_17_1": {
+      "message": "Görünmesi için alt kontrol çubuğunu değiştirin"
+   },
+   "ftr_18": {
+      "message": "Toplantı Zamanlayıcısı"
+   },
+   "ftr_18_1": {
+      "message": "Üst menü çubuğunda bir toplantı zamanlayıcısı görüntüler"
+   },
+   "ftr_19": {
+      "message": "Sessiz Açılır Pencereyi Gizle"
+   },
+   "ftr_19_1": {
+      "message": "&quot;Konuşuyor musunuz?&quot; sessize alındığında pop-up"
+   },
+   "ftr_1_2": {
+      "message": "Sesi açmak için kısayol tuşunu basılı tutun"
+   },
+   "ftr_1_3": {
+      "message": "Dinlemeye başlamak için tıklayın, kaydetmek için tekrar tıklayın."
+   },
+   "ftr_2": {
+      "message": "Otomatik Katılma"
+   },
+   "ftr_20": {
+      "message": "Otomatik Sabitlemeli Sohbet"
+   },
+   "ftr_20_1": {
+      "message": "Meet&#39;e katılırken sohbet görünümünü otomatik olarak sabitler"
+   },
+   "ftr_21": {
+      "message": "Yeni Katılımcıları Otomatik Kabul Et"
+   },
+   "ftr_21_1": {
+      "message": "Yeni katılımcıları otomatik olarak Meet&#39;e kabul eder"
+   },
+   "ftr_22": {
+      "message": "Yeni Katılımcıları Otomatik Reddet"
+   },
+   "ftr_22_1": {
+      "message": "Meet&#39;e yeni girenleri otomatik olarak reddeder"
+   },
+   "ftr_23": {
+      "message": "Ayna Videoları"
+   },
+   "ftr_23_1": {
+      "message": "Meet&#39;teki tüm videoları yansıtır"
+   },
+   "ftr_24": {
+      "message": "Ekran Saati"
+   },
+   "ftr_24_1": {
+      "message": "Tam ekranda olmasa bile saati görüntüleyin"
+   },
+   "ftr_25": {
+      "message": "&quot;Başkalarını Ekle&quot; açılır penceresini gizle"
+   },
+   "ftr_25_1": {
+      "message": "Bir Meet&#39;e katılırken &quot;Başkalarını Ekle&quot; açılır penceresini gizler"
+   },
+   "ftr_26": {
+      "message": "Rahatsız etmeyin"
+   },
+   "ftr_26_1": {
+      "message": "Yorumları ve kullanıcı katılım açılır pencerelerini gizle"
+   },
+   "ftr_26_2": {
+      "message": "Yorum bildirim balonunu gizle"
+   },
+   "ftr_27": {
+      "message": "Active Meet Sekmesini Bul"
+   },
+   "ftr_27_1": {
+      "message": "Etkin Meet sekmesini bulmak için uzantı simgesini tıklayın"
+   },
+   "ftr_28": {
+      "message": "Tümünün Sesini Kapat"
+   },
+   "ftr_28_1": {
+      "message": "Katılımcılar menüsünden tüm katılımcıları sessize alın"
+   },
+   "ftr_29": {
+      "message": "Hepsini kaldır"
+   },
+   "ftr_29_1": {
+      "message": "Katılımcılar menüsünden tüm katılımcıları kaldırın"
+   },
+   "ftr_2_1": {
+      "message": "Birleştirme ekranını atla"
+   },
+   "ftr_3": {
+      "message": "Hızlı Ayrılma"
+   },
+   "ftr_30": {
+      "message": "Hızlı Emoji Reaksiyonları"
+   },
+   "ftr_3_1": {
+      "message": "Aramadan ayrılmak için kısayol tuşunu kullanın"
+   },
+   "ftr_4": {
+      "message": "Onay bırakın"
+   },
+   "ftr_4_1": {
+      "message": "Bir toplantıdan ne zaman ayrıldığınızı onaylamanızı isteyin"
+   },
+   "ftr_5": {
+      "message": "Otomatik Altyazılar"
+   },
+   "ftr_5_1": {
+      "message": "Altyazıları otomatik aç"
+   },
+   "ftr_6": {
+      "message": "Otomatik Sessiz"
+   },
+   "ftr_6_1": {
+      "message": "Katılmada mikrofonu otomatik olarak kapat"
+   },
+   "ftr_7": {
+      "message": "Otomatik Video Kapatma"
+   },
+   "ftr_7_1": {
+      "message": "Birleştirme sırasında videoyu kapalı olarak ayarlayın"
+   },
+   "ftr_8": {
+      "message": "Alt Çubuğu Pim"
+   },
+   "ftr_8_1": {
+      "message": "Kontrol çubuğunu ekranın altına sabitler"
+   },
+   "ftr_9": {
+      "message": "İsimleri Gizle"
+   },
+   "ftr_9_1": {
+      "message": "Katılımcıların adlarını videolarında gizler"
+   }
+}

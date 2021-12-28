@@ -1,0 +1,209 @@
+{
+   "AppDesc": {
+      "message": "Lisab vestlusaknasse emotikonide kiirklahvid"
+   },
+   "AppName": {
+      "message": "Emotikonid teenusele Google Meet ™"
+   },
+   "Drive": {
+      "message": "Drive&#39;i funktsioon"
+   },
+   "Homepage": {
+      "message": "Koduleht"
+   },
+   "InMeetingPlugin": {
+      "message": "Koosolekul on pistikprogramm lubatud"
+   },
+   "InMeetingPluginDisabled": {
+      "message": "Koosoleku pistikprogramm on keelatud"
+   },
+   "RateUs": {
+      "message": "Palun hinnake meid!"
+   },
+   "StartMeet": {
+      "message": "Alustage kohtumist"
+   },
+   "ftr_1": {
+      "message": "Push to Talk"
+   },
+   "ftr_10": {
+      "message": "Määra taustavärv"
+   },
+   "ftr_10_1": {
+      "message": "Määrake Meetis kohandatud taustavärv"
+   },
+   "ftr_11": {
+      "message": "Automaatne vaigistus"
+   },
+   "ftr_11_1": {
+      "message": "Peatage teised oma mikrofoni summutamast"
+   },
+   "ftr_12": {
+      "message": "Kõlari esiletõstmine"
+   },
+   "ftr_12_1": {
+      "message": "Lisab kõnelejate ümber piiri"
+   },
+   "ftr_13": {
+      "message": "Pilt-pildis"
+   },
+   "ftr_13_1": {
+      "message": "Vaadake osalejate videot pildis-pildis"
+   },
+   "ftr_14": {
+      "message": "Läbipaistev baar"
+   },
+   "ftr_14_1": {
+      "message": "Muutke alumine riba läbipaistvaks"
+   },
+   "ftr_15": {
+      "message": "Tume režiim"
+   },
+   "ftr_15_1": {
+      "message": "Muudab Google Meet pimedas režiimis"
+   },
+   "ftr_16": {
+      "message": "Automaatne täisekraan"
+   },
+   "ftr_16_1": {
+      "message": "Automaatne täisekraan, kui keegi esitleb"
+   },
+   "ftr_17": {
+      "message": "Lülitage alumine riba sisse"
+   },
+   "ftr_17_1": {
+      "message": "Ilmumiseks lülitage alumine juhtriba sisse"
+   },
+   "ftr_18": {
+      "message": "Kohtumise taimer"
+   },
+   "ftr_18_1": {
+      "message": "Kuvab ülemisel menüüribal koosoleku taimeri"
+   },
+   "ftr_19": {
+      "message": "Peida vaigistatud hüpikaken"
+   },
+   "ftr_19_1": {
+      "message": "Peidab &quot;Kas sa räägid?&quot; vaigistatud hüpikaken"
+   },
+   "ftr_1_2": {
+      "message": "Vaigistuse tühistamiseks hoidke kiirklahvi all"
+   },
+   "ftr_1_3": {
+      "message": "Kuulamise alustamiseks klõpsake, salvestamiseks klõpsake uuesti."
+   },
+   "ftr_2": {
+      "message": "Automaatne liitumine"
+   },
+   "ftr_20": {
+      "message": "Kinnita vestlus automaatselt"
+   },
+   "ftr_20_1": {
+      "message": "Meetiga liitumisel kinnitatakse vestlusvaade automaatselt"
+   },
+   "ftr_21": {
+      "message": "Uute osalejate automaatne vastuvõtmine"
+   },
+   "ftr_21_1": {
+      "message": "Automaatselt lubab Meetile uusi tulijaid"
+   },
+   "ftr_22": {
+      "message": "Automaatne uute osalejate keelamine"
+   },
+   "ftr_22_1": {
+      "message": "Keelab automaatselt Meet-i uued tulijad"
+   },
+   "ftr_23": {
+      "message": "Peegelpildid"
+   },
+   "ftr_23_1": {
+      "message": "Peegeldab kõiki Meetis olevaid videoid"
+   },
+   "ftr_24": {
+      "message": "Kuva kell"
+   },
+   "ftr_24_1": {
+      "message": "Kuva kell ka siis, kui see pole täisekraanil"
+   },
+   "ftr_25": {
+      "message": "Peida hüpikaken &quot;Lisa teisi&quot;"
+   },
+   "ftr_25_1": {
+      "message": "Peidab Meetiga liitumisel hüpikakna „Lisa teisi”"
+   },
+   "ftr_26": {
+      "message": "Ära sega"
+   },
+   "ftr_26_1": {
+      "message": "Peida kommentaarid ja kasutajate hüpikaknad liituda"
+   },
+   "ftr_26_2": {
+      "message": "Peida kommentaaride märguandemull"
+   },
+   "ftr_27": {
+      "message": "Leidke vahekaart Active Meet"
+   },
+   "ftr_27_1": {
+      "message": "Aktiivse vahekaardi Meet leidmiseks klõpsake laienduse ikooni"
+   },
+   "ftr_28": {
+      "message": "Vaigista kõik"
+   },
+   "ftr_28_1": {
+      "message": "Summutage osalejate menüü kaudu kõik osalejad"
+   },
+   "ftr_29": {
+      "message": "Eemalda kõik"
+   },
+   "ftr_29_1": {
+      "message": "Eemaldage osalejate menüü kaudu kõik osalejad"
+   },
+   "ftr_2_1": {
+      "message": "Jätke liitumisekraan vahele"
+   },
+   "ftr_3": {
+      "message": "Kiire lahkumine"
+   },
+   "ftr_30": {
+      "message": "Kiired emotikonireaktsioonid"
+   },
+   "ftr_3_1": {
+      "message": "Kõne lõpetamiseks kasutage kiirklahvi"
+   },
+   "ftr_4": {
+      "message": "Jäta kinnitus"
+   },
+   "ftr_4_1": {
+      "message": "Küsige koosolekult lahkumisel kinnitust"
+   },
+   "ftr_5": {
+      "message": "Automaatsed pealdised"
+   },
+   "ftr_5_1": {
+      "message": "Lülita subtiitrid automaatselt sisse"
+   },
+   "ftr_6": {
+      "message": "Automaatne vaigistamine"
+   },
+   "ftr_6_1": {
+      "message": "Mikrofoni automaatne vaigistamine liitumisel"
+   },
+   "ftr_7": {
+      "message": "Automaatne video välja"
+   },
+   "ftr_7_1": {
+      "message": "Lülitage video liitumisel välja"
+   },
+   "ftr_8": {
+      "message": "Kinnitage alumine riba"
+   },
+   "ftr_8_1": {
+      "message": "Kinnitab juhtriba ekraani alaossa"
+   },
+   "ftr_9": {
+      "message": "Peida nimed"
+   },
+   "ftr_9_1": {
+      "message": "Peidab osalejate nimed oma videotes"
+   }
+}

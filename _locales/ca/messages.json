@@ -1,0 +1,209 @@
+{
+   "AppDesc": {
+      "message": "Afegeix dreceres ràpides d&#39;emoji a la finestra del xat"
+   },
+   "AppName": {
+      "message": "Emojis per a Google Meet ™"
+   },
+   "Drive": {
+      "message": "Funció Drive"
+   },
+   "Homepage": {
+      "message": "Pàgina inicial"
+   },
+   "InMeetingPlugin": {
+      "message": "S&#39;ha activat el connector de reunió"
+   },
+   "InMeetingPluginDisabled": {
+      "message": "El connector de reunió està desactivat"
+   },
+   "RateUs": {
+      "message": "Valoreu-nos!"
+   },
+   "StartMeet": {
+      "message": "Comenceu una trobada"
+   },
+   "ftr_1": {
+      "message": "Push To Talk"
+   },
+   "ftr_10": {
+      "message": "Estableix el color de fons"
+   },
+   "ftr_10_1": {
+      "message": "Definiu un color de fons personalitzat a Meet"
+   },
+   "ftr_11": {
+      "message": "Deixa de silenciar automàticament"
+   },
+   "ftr_11_1": {
+      "message": "Deixeu que altres no silenciïn el micròfon"
+   },
+   "ftr_12": {
+      "message": "Destacat dels altaveus"
+   },
+   "ftr_12_1": {
+      "message": "Afegeix una vora al voltant dels participants parlants"
+   },
+   "ftr_13": {
+      "message": "Imatge en imatge"
+   },
+   "ftr_13_1": {
+      "message": "Visualitzeu un vídeo dels participants en imatge en imatge"
+   },
+   "ftr_14": {
+      "message": "Barra transparent"
+   },
+   "ftr_14_1": {
+      "message": "Feu que la barra inferior sigui transparent"
+   },
+   "ftr_15": {
+      "message": "Mode fosc"
+   },
+   "ftr_15_1": {
+      "message": "Fa que el mode fosc de Google Meet"
+   },
+   "ftr_16": {
+      "message": "Pantalla completa automàtica"
+   },
+   "ftr_16_1": {
+      "message": "Pantalla completa automàtica quan algú presenta"
+   },
+   "ftr_17": {
+      "message": "Commuta la barra inferior"
+   },
+   "ftr_17_1": {
+      "message": "Alterneu la barra de control inferior perquè aparegui"
+   },
+   "ftr_18": {
+      "message": "Temporitzador de reunions"
+   },
+   "ftr_18_1": {
+      "message": "Mostra un temporitzador de reunions a la barra de menú superior"
+   },
+   "ftr_19": {
+      "message": "Amaga la finestra emergent de silenci"
+   },
+   "ftr_19_1": {
+      "message": "Oculta &quot;Estàs parlant?&quot; emergent quan es silenciï"
+   },
+   "ftr_1_2": {
+      "message": "Mantingueu premuda la tecla de selecció ràpida per activar el so"
+   },
+   "ftr_1_3": {
+      "message": "Feu clic per començar a escoltar, feu clic de nou per desar."
+   },
+   "ftr_2": {
+      "message": "Unió automàtica"
+   },
+   "ftr_20": {
+      "message": "Fixa automàticament el xat"
+   },
+   "ftr_20_1": {
+      "message": "Es fixa automàticament la visualització de xat en unir-se a Meet"
+   },
+   "ftr_21": {
+      "message": "Admet automàticament entrants nous"
+   },
+   "ftr_21_1": {
+      "message": "Admet automàticament els nous participants al Meet"
+   },
+   "ftr_22": {
+      "message": "Denegació automàtica de nous entrants"
+   },
+   "ftr_22_1": {
+      "message": "Denega automàticament els nous participants al Meet"
+   },
+   "ftr_23": {
+      "message": "Mirall de vídeos"
+   },
+   "ftr_23_1": {
+      "message": "Es reflecteixen tots els vídeos de Meet"
+   },
+   "ftr_24": {
+      "message": "Rellotge de visualització"
+   },
+   "ftr_24_1": {
+      "message": "Mostra el rellotge encara que no estigui en pantalla completa"
+   },
+   "ftr_25": {
+      "message": "Amaga la finestra emergent &quot;Afegeix altres&quot;"
+   },
+   "ftr_25_1": {
+      "message": "Amaga la finestra emergent &quot;Afegeix altres&quot; quan s&#39;uneix a Meet"
+   },
+   "ftr_26": {
+      "message": "No molestar"
+   },
+   "ftr_26_1": {
+      "message": "Amaga els comentaris i s&#39;uneixen les finestres emergents"
+   },
+   "ftr_26_2": {
+      "message": "Amaga la bombolla de notificació de comentaris"
+   },
+   "ftr_27": {
+      "message": "Pestanya Cerca activa"
+   },
+   "ftr_27_1": {
+      "message": "Feu clic a la icona de l&#39;extensió per trobar la pestanya Meet activa"
+   },
+   "ftr_28": {
+      "message": "Silencia tots"
+   },
+   "ftr_28_1": {
+      "message": "Silencia tots els participants mitjançant el menú dels participants"
+   },
+   "ftr_29": {
+      "message": "Esborra-ho tot"
+   },
+   "ftr_29_1": {
+      "message": "Elimineu tots els participants mitjançant el menú de participants"
+   },
+   "ftr_2_1": {
+      "message": "Omet la pantalla d&#39;unió"
+   },
+   "ftr_3": {
+      "message": "Permís ràpid"
+   },
+   "ftr_30": {
+      "message": "Reaccions ràpides d&#39;emoji"
+   },
+   "ftr_3_1": {
+      "message": "Utilitzeu la tecla de drecera per deixar una trucada"
+   },
+   "ftr_4": {
+      "message": "Deixa la confirmació"
+   },
+   "ftr_4_1": {
+      "message": "Demaneu confirmació quan sortiu de la reunió"
+   },
+   "ftr_5": {
+      "message": "Subtítols automàtics"
+   },
+   "ftr_5_1": {
+      "message": "Activa els subtítols automàticament"
+   },
+   "ftr_6": {
+      "message": "Silencia automàticament"
+   },
+   "ftr_6_1": {
+      "message": "Silencia automàticament el micròfon en unir-se"
+   },
+   "ftr_7": {
+      "message": "Desactivació automàtica del vídeo"
+   },
+   "ftr_7_1": {
+      "message": "Estableix el vídeo per desactivar en unir-se"
+   },
+   "ftr_8": {
+      "message": "Barra inferior de pin"
+   },
+   "ftr_8_1": {
+      "message": "Fixeu la barra de control a la part inferior de la pantalla"
+   },
+   "ftr_9": {
+      "message": "Amaga els noms"
+   },
+   "ftr_9_1": {
+      "message": "Amaga els noms dels participants als seus vídeos"
+   }
+}
