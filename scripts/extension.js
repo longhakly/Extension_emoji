@@ -1282,14 +1282,10 @@ function addEmojiButtons() {
           "afterbegin",
           `<div style='width: 100%;display: inline-flex; justify-content: space-between; margin-bottom: 14px; font-size: 20px; cursor: pointer;' 
             id='emojiButtons'>
-              <div class='emoji'>🤚</div>
-              <div class='emoji'>👋</div>
-              <div class='emoji'>👍</div>
-              <div class='emoji'>👎</div>
-              <div class='emoji'>❤️</div>
-              <div class='emoji'>💋</div>
-              <div class='emoji'>😀</div>
-              <div class='emoji'>🙁</div>
+              <div class='emoji'>Yes Sir</div>
+              <div class='emoji'>Hello Sir</div>
+              <div class='emoji'>Noted</div>
+             
             </div>`
         );
 
